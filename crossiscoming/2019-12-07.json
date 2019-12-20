@@ -1,0 +1,295 @@
+[
+    {
+        "client_msg_id": "d9faad74-640c-452c-aa2f-c8f2d6afd515",
+        "type": "message",
+        "text": "Well parking is dumb....",
+        "user": "UELTHSN2U",
+        "ts": "1575727909.000300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p5k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well parking is dumb...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8df9ce9e-8ba8-4e03-b29e-43a1fecb5a85",
+        "type": "message",
+        "text": "Calvary Baptist Church\n206 Courtland Pl, Bel Air, MD 21014\n<tel:4108386080|(410) 838-6080>\n<https:\/\/maps.app.goo.gl\/aaYYVz9YpQ6dD9Sq6|https:\/\/maps.app.goo.gl\/aaYYVz9YpQ6dD9Sq6>",
+        "user": "UELTHSN2U",
+        "ts": "1575727931.000400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Calvary Baptist Church",
+                "title_link": "https:\/\/maps.app.goo.gl\/aaYYVz9YpQ6dD9Sq6",
+                "text": "★★★★★ · Baptist church · 206 Courtland Pl",
+                "fallback": "Calvary Baptist Church",
+                "thumb_url": "https:\/\/lh5.googleusercontent.com\/p\/AF1QipN8H29ZlF9kqFEaqj05ImhGGgNaUfLOvE4mFKuC",
+                "from_url": "https:\/\/maps.app.goo.gl\/aaYYVz9YpQ6dD9Sq6",
+                "thumb_width": 288,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/www.google.com\/favicon.ico",
+                "service_name": "google.com",
+                "id": 1,
+                "original_url": "https:\/\/maps.app.goo.gl\/aaYYVz9YpQ6dD9Sq6"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=1f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Calvary Baptist Church\n206 Courtland Pl, Bel Air, MD 21014\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:4108386080",
+                                "text": "(410) 838-6080"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/maps.app.goo.gl\/aaYYVz9YpQ6dD9Sq6",
+                                "text": "https:\/\/maps.app.goo.gl\/aaYYVz9YpQ6dD9Sq6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "66766fc6-1dbb-4a05-b2ed-7872779e7d10",
+        "type": "message",
+        "text": "Had to park here",
+        "user": "UELTHSN2U",
+        "ts": "1575727938.000800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2er0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Had to park here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "731fcc1c-4302-4725-bc68-a8b1fc4492cc",
+        "type": "message",
+        "text": "We're posted by reg",
+        "user": "UEM08LNN5",
+        "ts": "1575728326.001200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NeK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We're posted by reg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72D442DD-4474-4A05-8FAB-C9331A3512E6",
+        "type": "message",
+        "text": "CONGRATS DYLAN AND JEREMY!!!!",
+        "user": "UEMG2LD43",
+        "ts": "1575756695.000400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "768252E9-0864-4ADE-A8F4-062A5654D2AF",
+        "type": "message",
+        "text": ":tada::tada::tada::tada::tada::tada::tada::tada:",
+        "user": "UEMG2LD43",
+        "ts": "1575756724.000600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UEM08LNN5",
+                    "UEPMPAJUB",
+                    "UENFLMV8R",
+                    "UEMQVREAZ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "purple_heart",
+                "users": [
+                    "UEM08LNN5",
+                    "UEPMPAJUB",
+                    "UENFLMV8R",
+                    "UEN71AM44",
+                    "UEMQVREAZ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "blue_heart",
+                "users": [
+                    "UEM08LNN5",
+                    "UEPMPAJUB",
+                    "UENFLMV8R",
+                    "UEN71AM44",
+                    "UEMQVREAZ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "100",
+                "users": [
+                    "UENKAEABU",
+                    "UEPMPAJUB",
+                    "UENFLMV8R",
+                    "UEMQVREAZ"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64BF038A-0900-4632-9B49-1273E0291B76",
+        "type": "message",
+        "text": "Anyone missing a burgundy rapha base layer, size medium? Was in a box of stuff from bikenetic that I’m just now going through. The neck hole may be stretched out now.",
+        "user": "UENFLMV8R",
+        "ts": "1575768856.001500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UENFLMV8R",
+            "ts": "1575768980.000000"
+        }
+    }
+]

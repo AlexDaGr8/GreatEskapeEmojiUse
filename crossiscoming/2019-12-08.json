@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "0835348B-A75C-42D0-A8B9-7463F4B5D990",
+        "type": "message",
+        "text": "I will be bringing a giant thermos of zekes today",
+        "user": "UEMG2LD43",
+        "ts": "1575808473.000700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "zekes",
+                "users": [
+                    "UEM08LNN5",
+                    "UEMQ8740M",
+                    "UEN71AM44"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1B049173-7132-4A41-A73B-7BBF017154C2",
+        "type": "message",
+        "text": "And a couple extra mugs. ",
+        "user": "UEMG2LD43",
+        "ts": "1575808497.001100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

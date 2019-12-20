@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "976E3537-9A46-4E39-ACFC-F99E79DA1812",
+        "type": "message",
+        "text": "October 26th and 27th. Who’s doing what?? I have the elusive two days off on a Saturday Sunday. This hasn’t happened in over 4 years during the fall! ",
+        "user": "UENKAEABU",
+        "ts": "1571357733.001600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "30b5c9dfe817",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/498490595412_30b5c9dfe81702b72f34_72.png",
+            "first_name": "Sean",
+            "real_name": "Sean Murnane",
+            "display_name": "MurMan",
+            "team": "TENHSKBAT",
+            "name": "murnanesf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "634f812b-ae75-49a6-a33f-b8a9aac65a79",
+        "type": "message",
+        "text": "Canal camping Friday night if it's nice, falkorburg Sunday!",
+        "user": "UELTX8WP3",
+        "ts": "1571357809.002200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "934c7b23-5155-4494-9218-c433d441d085",
+        "type": "message",
+        "text": "COUNTERPOINT: Biketoberfest Saturday, world series  Saturday night!",
+        "user": "UEM08LNN5",
+        "ts": "1571358162.003100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "parrot",
+                "users": [
+                    "UEMQ8740M",
+                    "UEMG2LD43",
+                    "UEN71AM44"
+                ],
+                "count": 3
+            },
+            {
+                "name": "man-with-bunny-ears-partying",
+                "users": [
+                    "UENKAEABU",
+                    "UENFLMV8R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16E58F28-1CB4-41C8-B815-D5EE53BF07D3",
+        "type": "message",
+        "text": "I’m more likely to do biketoberfest than canal camping due to my travel schedule ",
+        "user": "UEMG2LD43",
+        "ts": "1571367793.004800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DD16AE1E-188F-469C-AC6F-E142FFE44FAB",
+        "type": "message",
+        "text": "<@UEM08LNN5> down to clown on this opportunity. ",
+        "user": "UENKAEABU",
+        "ts": "1571372885.005600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "30b5c9dfe817",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/498490595412_30b5c9dfe81702b72f34_72.png",
+            "first_name": "Sean",
+            "real_name": "Sean Murnane",
+            "display_name": "MurMan",
+            "team": "TENHSKBAT",
+            "name": "murnanesf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

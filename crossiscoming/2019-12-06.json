@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "b96e58bc-e2ed-4082-a5e6-d1115211abdc",
+        "type": "message",
+        "text": "Try to enter the race under several pseudonyms",
+        "user": "UF1HPL518",
+        "ts": "1575641595.009900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5f2f460ec09c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-15\/874365254000_5f2f460ec09c420f9345_72.jpg",
+            "first_name": "Richo",
+            "real_name": "Richo Mundo",
+            "display_name": "Richo team Smol2Swol",
+            "team": "TENHSKBAT",
+            "name": "richmondknight",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7U4k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try to enter the race under several pseudonyms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575602636.008600",
+        "parent_user_id": "UEM08LNN5"
+    }
+]

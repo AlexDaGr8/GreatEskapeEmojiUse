@@ -1,0 +1,226 @@
+[
+    {
+        "client_msg_id": "554d4387-ec4b-4ce5-a930-e1416c434cbf",
+        "type": "message",
+        "text": "Can I reserve a plot of floor space at Hotel Jeremy?",
+        "user": "UEM08LNN5",
+        "ts": "1570733941.001900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570456820.072700",
+        "parent_user_id": "UEN71AM44"
+    },
+    {
+        "client_msg_id": "1383d33d-ba37-4d28-a172-92a3bb04af1e",
+        "type": "message",
+        "text": "totes",
+        "user": "UEN71AM44",
+        "ts": "1570748261.002100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570456820.072700",
+        "parent_user_id": "UEN71AM44"
+    },
+    {
+        "client_msg_id": "cd9868fe-f87f-4cbe-9e08-82a798e604c1",
+        "type": "message",
+        "text": "looks like coman is here friday\/saturday, and new alex sat.",
+        "user": "UEN71AM44",
+        "ts": "1570748629.002300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570456820.072700",
+        "parent_user_id": "UEN71AM44"
+    },
+    {
+        "client_msg_id": "954ce577-99fe-43ab-b6f9-63152043d882",
+        "type": "message",
+        "text": "if you have air mattress or whatever, bring that. i unfortunately dont have any beds yet.",
+        "user": "UEN71AM44",
+        "ts": "1570748705.002500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570456820.072700",
+        "parent_user_id": "UEN71AM44"
+    },
+    {
+        "client_msg_id": "2df60b0d-0c56-469b-af1e-f763c352d37f",
+        "type": "message",
+        "text": "Sweet! I'll just be there Saturday as well, and I'll bring a sleeping pad. Thanks!",
+        "user": "UEM08LNN5",
+        "ts": "1570749448.002700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570456820.072700",
+        "parent_user_id": "UEN71AM44"
+    },
+    {
+        "client_msg_id": "349104CF-9840-45FB-860D-FDDBAC9EC08F",
+        "type": "message",
+        "text": "Ok I got a double room at the days inn w Addison ",
+        "user": "UEMG2LD43",
+        "ts": "1570753608.003200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UEMG2LD43",
+            "ts": "1570754307.000000"
+        },
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "UELTX8WP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "616212C6-6C45-4726-850C-D72304248E2E",
+        "type": "message",
+        "text": "There are still a couple double rooms",
+        "user": "UEMG2LD43",
+        "ts": "1570753620.003700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "78D37872-69FB-48E5-9F29-BC7666569441",
+        "type": "message",
+        "text": "Or whatever I don’t even know who isn’t straying at jers ",
+        "user": "UEMG2LD43",
+        "ts": "1570754755.004600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "62e46fd1-01b4-4601-b7e7-14f348e7185e",
+        "type": "message",
+        "text": "no strays allowed. must have USAC license to stay at _HOTEL JEREMÍAS_",
+        "user": "UEN71AM44",
+        "ts": "1570759856.000800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UEMQ8740M",
+                    "UEM1Y8CQH",
+                    "UEPMPAJUB",
+                    "UEM08LNN5"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

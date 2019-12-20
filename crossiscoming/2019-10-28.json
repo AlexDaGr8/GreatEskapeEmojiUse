@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "41560A96-D6B4-4E71-A496-1DF1B60EA26F",
+        "type": "message",
+        "text": "Anyone want my registration for Ed Sanders?",
+        "user": "UENEJ7N85",
+        "ts": "1572289105.012100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bcd4ee67b883",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-19\/869411891171_bcd4ee67b88399c98985_72.png",
+            "first_name": "co-bro",
+            "real_name": "co-bro commando",
+            "display_name": "",
+            "team": "TENHSKBAT",
+            "name": "ilahi.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572289105.012100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1572305929.012600",
+        "reply_users": [
+            "UENKAEABU"
+        ],
+        "replies": [
+            {
+                "user": "UENKAEABU",
+                "ts": "1572305929.012600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UEPMPAJUB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9D19EA2D-7869-4C63-A2C4-D84BA859105A",
+        "type": "message",
+        "text": "Will take. ",
+        "user": "UENKAEABU",
+        "ts": "1572305929.012600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "30b5c9dfe817",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/498490595412_30b5c9dfe81702b72f34_72.png",
+            "first_name": "Sean",
+            "real_name": "Sean Murnane",
+            "display_name": "MurMan",
+            "team": "TENHSKBAT",
+            "name": "murnanesf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572289105.012100",
+        "parent_user_id": "UENEJ7N85",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "UEMQ8740M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

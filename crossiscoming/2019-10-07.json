@@ -1,0 +1,597 @@
+[
+    {
+        "client_msg_id": "e8ddc45d-a469-49cd-9d7b-260637f8a35e",
+        "type": "message",
+        "text": "the days inn on 695 in baltimore is a 20 minute drive from the race, i think i'll stay there saturday night. it's only 77 dollars for a double double room, so if we pair up that's less than 40 a person for your own bed. or its the same for a king room if you're MABRAs most eligible bachelor and you think there will be a lot of demand for overnight company. i wont name names.",
+        "user": "UEMG2LD43",
+        "ts": "1570454917.062600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570454917.062600",
+        "reply_count": 11,
+        "reply_users_count": 6,
+        "latest_reply": "1570579513.077000",
+        "reply_users": [
+            "UEM08LNN5",
+            "UEMQ8740M",
+            "UEM1Y8CQH",
+            "UEMG2LD43",
+            "UELTX8WP3",
+            "UF1HPL518"
+        ],
+        "replies": [
+            {
+                "user": "UEM08LNN5",
+                "ts": "1570455467.063000"
+            },
+            {
+                "user": "UEMQ8740M",
+                "ts": "1570455499.063200"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1570455975.066400"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1570456121.067000"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1570456125.067300"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1570456162.067600"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1570456261.067800"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1570456297.068100"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1570456331.069500"
+            },
+            {
+                "user": "UELTX8WP3",
+                "ts": "1570462688.075900"
+            },
+            {
+                "user": "UF1HPL518",
+                "ts": "1570579513.077000"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1570579513.077000",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UENEJ7N85",
+                    "UEM1Y8CQH",
+                    "UEM08LNN5",
+                    "UEPMPAJUB"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heartpulse",
+                "users": [
+                    "UEM08LNN5",
+                    "UEM1Y8CQH",
+                    "UENFLMV8R",
+                    "UF1HPL518"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "954c035f-9a16-44e1-946e-01488edfa0ba",
+        "type": "message",
+        "text": "I'm sure this person appreciates your discretion.",
+        "user": "UEM08LNN5",
+        "ts": "1570455467.063000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570454917.062600",
+        "parent_user_id": "UEMG2LD43"
+    },
+    {
+        "client_msg_id": "cf69645d-e7b0-42b6-97ea-35525d79dc71",
+        "type": "message",
+        "text": "This one?  <https:\/\/www.wyndhamhotels.com\/days-inn\/baltimore-maryland\/days-inn-baltimore-west-security-blvd\/rooms-rates?brand_id=DI&amp;checkInDate=10\/12\/2019&amp;checkOutDate=10\/13\/2019&amp;useWRPoints=false&amp;children=0&amp;adults=2&amp;rooms=1&amp;radius=25&amp;referringBrand=DI&amp;latitude=39.2903848&amp;longitude=-76.61218930000001&amp;sessionId=1570455369&amp;corpCode=1000008323>",
+        "user": "UEMQ8740M",
+        "ts": "1570455499.063200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UEMQ8740M",
+            "ts": "1575064582.000000"
+        },
+        "thread_ts": "1570454917.062600",
+        "parent_user_id": "UEMG2LD43"
+    },
+    {
+        "client_msg_id": "34e4c3ce-2058-4029-8333-33592abe937b",
+        "type": "message",
+        "text": "I also have a spare room in Ellicott City if anyone wants to take it!  I'm 25mins frm Druid Park.",
+        "user": "UELTHSN2U",
+        "ts": "1570455866.065700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E98C1FCF-B6BD-400F-B4F0-139E44A40023",
+        "type": "message",
+        "text": "<https:\/\/www.peerwell.co\/blog\/2018\/05\/30\/sex-back-pain-positions\/>",
+        "user": "UEM1Y8CQH",
+        "ts": "1570455975.066400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "PeerWell's PreHab and ReHab Blog: All Things Joint Replacement Surgery",
+                "title": "Back Pain and Sex: Safe Sex Positions for Your Back Pain",
+                "title_link": "https:\/\/www.peerwell.co\/blog\/2018\/05\/30\/sex-back-pain-positions\/",
+                "text": "For lots of people,",
+                "fallback": "PeerWell's PreHab and ReHab Blog: All Things Joint Replacement Surgery: Back Pain and Sex: Safe Sex Positions for Your Back Pain",
+                "thumb_url": "https:\/\/www.peerwell.co\/blog\/content\/images\/2016\/05\/Peerwell-sex.png",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Grace McClure",
+                        "short": true
+                    }
+                ],
+                "ts": 1527705160,
+                "from_url": "https:\/\/www.peerwell.co\/blog\/2018\/05\/30\/sex-back-pain-positions\/",
+                "thumb_width": 691,
+                "thumb_height": 450,
+                "service_icon": "https:\/\/www.peerwell.co\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.peerwell.co\/blog\/2018\/05\/30\/sex-back-pain-positions\/"
+            }
+        ],
+        "thread_ts": "1570454917.062600",
+        "parent_user_id": "UEMG2LD43",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UEPMPAJUB",
+                    "UEMG2LD43",
+                    "UEM08LNN5",
+                    "UENFLMV8R"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b972e03-00c0-4974-b748-56561740949e",
+        "type": "message",
+        "text": "Hello police? I'd like to report a murder.",
+        "user": "UEM08LNN5",
+        "ts": "1570456121.067000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570454917.062600",
+        "parent_user_id": "UEMG2LD43",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UEM1Y8CQH",
+                    "UEN71AM44",
+                    "UEMQ8740M",
+                    "UELTX8WP3"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b0adb8d-7e21-4f99-8cff-c32310a4e601",
+        "type": "message",
+        "text": "this one yes",
+        "user": "UEMG2LD43",
+        "ts": "1570456125.067300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570454917.062600",
+        "parent_user_id": "UEMG2LD43"
+    },
+    {
+        "client_msg_id": "1e738cc8-e381-45db-95ae-8f4e7a8d95a3",
+        "type": "message",
+        "text": "<@UELTX8WP3> get in here and record this obvious skackee nomination for best burn.",
+        "user": "UEM08LNN5",
+        "ts": "1570456162.067600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570454917.062600",
+        "parent_user_id": "UEMG2LD43"
+    },
+    {
+        "client_msg_id": "05389f70-c7ee-4d6d-a142-b38345e6f398",
+        "type": "message",
+        "text": "that ones going to be hard to top, i'd like to stand for an honorable mention for the obvious tee-up of that sick burn",
+        "user": "UEMG2LD43",
+        "ts": "1570456261.067800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570454917.062600",
+        "parent_user_id": "UEMG2LD43"
+    },
+    {
+        "client_msg_id": "08ca113d-996d-4cf0-969c-66612a47acb1",
+        "type": "message",
+        "text": "Lotta strong work out here today, boys. You love to see it.",
+        "user": "UEM08LNN5",
+        "ts": "1570456297.068100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570454917.062600",
+        "parent_user_id": "UEMG2LD43"
+    },
+    {
+        "client_msg_id": "3443CC9A-9BB6-4FCB-B35F-B45D900008F4",
+        "type": "message",
+        "text": "<@UEMG2LD43> I'll acknowledge you in my acceptance speech, I'm nothing without my teammates",
+        "user": "UEM1Y8CQH",
+        "ts": "1570456331.069500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570454917.062600",
+        "parent_user_id": "UEMG2LD43",
+        "reactions": [
+            {
+                "name": "champagne",
+                "users": [
+                    "UEMG2LD43",
+                    "UF1HPL518",
+                    "UEM08LNN5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9611fe5d-0ba6-4388-b2a5-8b23b4b32fa5",
+        "type": "message",
+        "text": "<@UEN71AM44> I know I asked a while back…but you willing to host this slow boi?",
+        "user": "UENEJ7N85",
+        "ts": "1570456789.071800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bcd4ee67b883",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-19\/869411891171_bcd4ee67b88399c98985_72.png",
+            "first_name": "co-bro",
+            "real_name": "co-bro commando",
+            "display_name": "",
+            "team": "TENHSKBAT",
+            "name": "ilahi.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2e9d2999-abd8-41db-b608-8b33c08c4664",
+        "type": "message",
+        "text": "I can scoop ya up from work on Friday too if that works",
+        "user": "UENEJ7N85",
+        "ts": "1570456817.072600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bcd4ee67b883",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-19\/869411891171_bcd4ee67b88399c98985_72.png",
+            "first_name": "co-bro",
+            "real_name": "co-bro commando",
+            "display_name": "",
+            "team": "TENHSKBAT",
+            "name": "ilahi.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "63b34348-b346-46ce-9475-7b78cc9bc196",
+        "type": "message",
+        "text": "i have 2 rooms, but no beds, all are welcome. 2 miles to Druid. oh yeah <@UENEJ7N85>",
+        "user": "UEN71AM44",
+        "ts": "1570456820.072700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570456820.072700",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1570749448.002700",
+        "reply_users": [
+            "UEM08LNN5",
+            "UEN71AM44"
+        ],
+        "replies": [
+            {
+                "user": "UEM08LNN5",
+                "ts": "1570733941.001900"
+            },
+            {
+                "user": "UEN71AM44",
+                "ts": "1570748261.002100"
+            },
+            {
+                "user": "UEN71AM44",
+                "ts": "1570748629.002300"
+            },
+            {
+                "user": "UEN71AM44",
+                "ts": "1570748705.002500"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1570749448.002700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d80ccf6b-1c63-4330-ab9c-70111519fce5",
+        "type": "message",
+        "text": "Sweet!!!  I’ll bring my sleeping bag\/pad.  Sleepover!!",
+        "user": "UENEJ7N85",
+        "ts": "1570456840.073100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bcd4ee67b883",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-19\/869411891171_bcd4ee67b88399c98985_72.png",
+            "first_name": "co-bro",
+            "real_name": "co-bro commando",
+            "display_name": "",
+            "team": "TENHSKBAT",
+            "name": "ilahi.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "487B8EA4-7CA4-4E90-B903-80F490E1DA9E",
+        "type": "message",
+        "text": "Can I call dibs on a spot too <@UEN71AM44>? I'll bring a sleeping pad and bag",
+        "user": "UEM1Y8CQH",
+        "ts": "1570458038.074000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dea1eeda-c1a4-422c-a609-d73c991a4a5b",
+        "type": "message",
+        "text": "coolbz! <@UEM1Y8CQH> i have a bunch of extra pads that yall can supplement with as well.",
+        "user": "UEN71AM44",
+        "ts": "1570459928.074900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b9cf3b06-d678-4ea9-9579-a258867163dc",
+        "type": "message",
+        "text": "la-di-da, fancy",
+        "user": "UENEJ7N85",
+        "ts": "1570460003.075300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bcd4ee67b883",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-19\/869411891171_bcd4ee67b88399c98985_72.png",
+            "first_name": "co-bro",
+            "real_name": "co-bro commando",
+            "display_name": "",
+            "team": "TENHSKBAT",
+            "name": "ilahi.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3fc0733d-b46b-44b5-8da1-18a09e118336",
+        "type": "message",
+        "text": "Added both to the nominations hahaha",
+        "user": "UELTX8WP3",
+        "ts": "1570462688.075900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570454917.062600",
+        "parent_user_id": "UEMG2LD43"
+    }
+]

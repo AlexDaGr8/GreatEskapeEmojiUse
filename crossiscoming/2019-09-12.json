@@ -1,0 +1,373 @@
+[
+    {
+        "client_msg_id": "2B4FCCB3-FE21-4028-B17E-9D2EF78B6531",
+        "type": "message",
+        "text": "I could probably help ya out. ",
+        "user": "UEMQVREAZ",
+        "ts": "1568306493.011000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568208143.008000",
+        "parent_user_id": "UEPMPAJUB"
+    },
+    {
+        "client_msg_id": "13EF2FD1-35EF-46CD-B7AE-4ECF9D9EC118",
+        "type": "message",
+        "text": "What race\/time you trying to get the?",
+        "user": "UEMQVREAZ",
+        "ts": "1568306508.011500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568208143.008000",
+        "parent_user_id": "UEPMPAJUB"
+    },
+    {
+        "client_msg_id": "48742E9D-4CEA-4483-A47E-5E07E93D92A4",
+        "type": "message",
+        "text": "After these shenanigans... Would anyone like to watch le Vuelta replay with me? Stage 20, 190k 3 cat 3s, 2 cat 2s, 2 cat 1s. Finishes on a 3...",
+        "user": "UEMQVREAZ",
+        "ts": "1568306641.014000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "b6e9b8ec-4fe9-4c50-9f94-0ad02480e9e7",
+        "type": "message",
+        "text": "Alright registered for Reckless CX. <@UEMQ8740M> Let's get that 1,2 Sweep again!!!! :kissing_heart::vuvu:",
+        "user": "UELTHSN2U",
+        "ts": "1568313746.015100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "vuvu",
+                "users": [
+                    "UEM08LNN5",
+                    "UEMG2LD43",
+                    "UEPNUSZCN",
+                    "UEN71AM44",
+                    "UEMQ8740M"
+                ],
+                "count": 5
+            },
+            {
+                "name": "bell",
+                "users": [
+                    "UEM08LNN5",
+                    "UEMG2LD43",
+                    "UEN71AM44",
+                    "UEMQ8740M"
+                ],
+                "count": 4
+            },
+            {
+                "name": "champagne",
+                "users": [
+                    "UEM08LNN5",
+                    "UEMG2LD43",
+                    "UEN71AM44",
+                    "UEMQ8740M"
+                ],
+                "count": 4
+            },
+            {
+                "name": "reckless",
+                "users": [
+                    "UEM08LNN5",
+                    "UEMG2LD43",
+                    "UEN71AM44",
+                    "UEMQ8740M"
+                ],
+                "count": 4
+            },
+            {
+                "name": "parrot",
+                "users": [
+                    "UEMQ8740M",
+                    "UEM08LNN5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "262c6408-5541-4ea1-ab8c-7588e306bccd",
+        "type": "message",
+        "text": "I'm into getting lots of work in at Colmar as early as possible, have friends in town I need to get back to. I could ride the barriers and cones up to the course and set up as much as we had last weekend so we can get started as close to 9 as possible. Would that be helpful?",
+        "user": "UEM1Y8CQH",
+        "ts": "1568314793.015600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "40533f9a-7934-49bb-9f71-c46bfb98bcaf",
+        "type": "message",
+        "text": "That would be huge",
+        "user": "UEM08LNN5",
+        "ts": "1568314933.015800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "AFF45247-0075-47CF-AA10-111C00C424AE",
+        "type": "message",
+        "text": "That sounds great. I’ll drive up again probably so carrying barriers is possible",
+        "user": "UEPMPAJUB",
+        "ts": "1568318438.017500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "D1D20695-A2F0-4F04-B9B1-3FF0E6265838",
+        "type": "message",
+        "text": "I’d like to do some longer hot laps, maybe 30-40 minutes of race pace?",
+        "user": "UEPMPAJUB",
+        "ts": "1568318489.018800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "2AFDB0C6-FDF4-4757-91E2-DE7ACD2DCFE9",
+        "type": "message",
+        "text": "Not sure if I want to race the 3\/4 at 11 or 4\/5 at 1",
+        "user": "UEPMPAJUB",
+        "ts": "1568318770.019600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568208143.008000",
+        "parent_user_id": "UEPMPAJUB"
+    },
+    {
+        "client_msg_id": "B0EC0206-3D98-4195-916B-750B798ACA6F",
+        "type": "message",
+        "text": "Longer hot laps sounds good, so does 30-40 min of race pace. Does that mean a new course set up? If so I'd like to help facilitate setting the course so that we have less dead time. ",
+        "user": "UEM1Y8CQH",
+        "ts": "1568319369.021700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "22AAD2A9-E976-4677-940D-D480D54F260B",
+        "type": "message",
+        "text": "Yea that sounds good. I’ll try to get there a bit early",
+        "user": "UEPMPAJUB",
+        "ts": "1568325890.022500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "96DD38AE-CD68-4148-AF83-928736DD4733",
+        "type": "message",
+        "text": "what we did last time is about 50% of a full lap I think",
+        "user": "UEPMPAJUB",
+        "ts": "1568325921.023500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "69596AD8-5AAC-4379-BA07-B515355D31AA",
+        "type": "message",
+        "text": "Got it, I'll be there early too",
+        "user": "UEM1Y8CQH",
+        "ts": "1568325969.024000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "2FA179D6-04BD-4D03-9869-EED96E74A60C",
+        "type": "message",
+        "text": "Fuck it... Do em both!! ",
+        "user": "UEMQVREAZ",
+        "ts": "1568332259.024600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568208143.008000",
+        "parent_user_id": "UEPMPAJUB"
+    }
+]

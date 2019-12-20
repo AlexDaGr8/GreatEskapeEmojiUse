@@ -1,0 +1,25 @@
+[
+    {
+        "client_msg_id": "05B7B96F-C570-4E9D-B36E-ED9629C33B8D",
+        "type": "message",
+        "text": ":heart_eyes::heart_eyes::heart_eyes:",
+        "user": "UEMQ8740M",
+        "ts": "1573474141.000200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573397400.001300",
+        "parent_user_id": "UEMQ8740M"
+    }
+]

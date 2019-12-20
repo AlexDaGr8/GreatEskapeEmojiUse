@@ -1,0 +1,384 @@
+[
+    {
+        "client_msg_id": "2b17aadc-a6c9-48c4-96aa-1a572eea093e",
+        "type": "message",
+        "text": "<https:\/\/greateskape.slack.com\/archives\/CGULKMK8S\/p1572816655001900>\n\nYes.",
+        "user": "UEM08LNN5",
+        "ts": "1573133357.000300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/greateskape.slack.com\/archives\/CGULKMK8S\/p1572816655001900",
+                "fallback": "[November 3rd, 2019 1:30 PM] kelly.c.roberson: <@UEM08LNN5> can you let us know if you get poison ivy? You seem to be the bellweather",
+                "ts": "1572816655.001900",
+                "author_id": "UEMQ8740M",
+                "author_subname": "Kelly Roberson",
+                "channel_id": "CGULKMK8S",
+                "channel_name": "crossishere",
+                "is_msg_unfurl": true,
+                "text": "<@UEM08LNN5> can you let us know if you get poison ivy? You seem to be the bellweather",
+                "author_name": "Kelly Roberson",
+                "author_link": "https:\/\/greateskape.slack.com\/team\/UEMQ8740M",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-12-06\/497842356741_38437cae67f6a552c9c0_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/greateskape.slack.com\/archives\/CGULKMK8S\/p1572816655001900",
+                "footer": "Posted in #crossishere"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15f47790-c408-4818-9553-05b728a73276",
+        "type": "message",
+        "text": "You have it again!?!",
+        "user": "UEMQ8740M",
+        "ts": "1573133408.001400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "528f4511-4c65-4034-97b3-f77477528946",
+        "type": "message",
+        "text": ":seedling::fire:I LOVE THE SPICY PLANT AND IT LOVES ME:fire::seedling:",
+        "user": "UEM08LNN5",
+        "ts": "1573133499.002300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "544cd72a-67d1-4548-b933-8783585caf17",
+        "type": "message",
+        "text": "Where is it? Your legs? Anyone else get this stuff?",
+        "user": "UEMQ8740M",
+        "ts": "1573133659.002700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ce0d977c-49c5-496b-acaa-231f0f626c0d",
+        "type": "message",
+        "text": "Yeah, I missed a spot on my knee with the tecnu",
+        "user": "UEM08LNN5",
+        "ts": "1573133695.003500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_frowning_face",
+                "users": [
+                    "UELTHSN2U",
+                    "UEM1Y8CQH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07dfcfb9-3fd8-4271-acf2-57fd1147fd1e",
+        "type": "message",
+        "text": "Apparently",
+        "user": "UEM08LNN5",
+        "ts": "1573133702.003700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "00c9e7c9-3d80-4964-8a39-f0d1f2133e09",
+        "type": "message",
+        "text": "Less on my calves this time",
+        "user": "UEM08LNN5",
+        "ts": "1573133711.004100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573133711.004100",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1573135196.005500",
+        "reply_users": [
+            "UEMQ8740M",
+            "UEM08LNN5",
+            "UEN71AM44",
+            "UEMG2LD43"
+        ],
+        "replies": [
+            {
+                "user": "UEMQ8740M",
+                "ts": "1573133747.004200"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1573134062.004400"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1573134073.004600"
+            },
+            {
+                "user": "UEN71AM44",
+                "ts": "1573134531.004900"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1573134664.005300"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1573135196.005500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "85795b29-c29f-4637-8ce3-d4bc704b31f6",
+        "type": "message",
+        "text": "dang, I'm so sorry! That sucks",
+        "user": "UEMQ8740M",
+        "ts": "1573133747.004200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573133711.004100",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "da984947-4069-45e2-886b-dbf6f2a098d6",
+        "type": "message",
+        "text": "The price of greatness",
+        "user": "UEM08LNN5",
+        "ts": "1573134062.004400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573133711.004100",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "c63f222c-ed33-42c4-939d-c98c77067e77",
+        "type": "message",
+        "text": "Or in my case, mediocrity",
+        "user": "UEM08LNN5",
+        "ts": "1573134073.004600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573133711.004100",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FQ1FAD9DX",
+                "created": 1573134526,
+                "timestamp": 1573134526,
+                "name": "q4nGEKE.gif",
+                "title": "q4nGEKE.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "UEN71AM44",
+                "editable": false,
+                "size": 2695281,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TENHSKBAT-FQ1FAD9DX\/q4ngeke.gif?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TENHSKBAT-FQ1FAD9DX\/download\/q4ngeke.gif?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ1FAD9DX-6e9290789f\/q4ngeke_64.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ1FAD9DX-6e9290789f\/q4ngeke_80.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ1FAD9DX-6e9290789f\/q4ngeke_360.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_360_w": 360,
+                "thumb_360_h": 195,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ1FAD9DX-6e9290789f\/q4ngeke_160.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ1FAD9DX-6e9290789f\/q4ngeke_360.gif?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "image_exif_rotation": 1,
+                "original_w": 480,
+                "original_h": 260,
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ1FAD9DX-6e9290789f\/q4ngeke_deanimate_gif.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_tiny": "AwAaADDP28U9hgAewqTzIwuNnOOuabIQWH0FSWQhCTTtpA3CnhsDGaQZKkAZz6UXESW8XnEHjj1bHNTBCCN3uKqDdGM8YNTJcBhjABoYEQVWUfvFH1oZev7xTjgD1qHtRTsS79ycRA5\/eLxwPepAqKABIoqN\/uL9KdDyrZpDs+4jAH5TIuD39Kb5XdZFJHYUk38NPg6Gi+gcrvuf\/9k=",
+                "permalink": "https:\/\/greateskape.slack.com\/files\/UEN71AM44\/FQ1FAD9DX\/q4ngeke.gif",
+                "permalink_public": "https:\/\/slack-files.com\/TENHSKBAT-FQ1FAD9DX-86dd5af40f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UEN71AM44",
+        "display_as_bot": false,
+        "ts": "1573134531.004900",
+        "client_msg_id": "42d4473f-f56e-4c7f-87b5-209fa536d83e",
+        "thread_ts": "1573133711.004100",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "a5416601-fac5-4e6a-8d42-b8ac515a89f9",
+        "type": "message",
+        "text": "<@UEM08LNN5> you're great to us :heart:",
+        "user": "UEMG2LD43",
+        "ts": "1573134664.005300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573133711.004100",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "b443e623-b20a-4d27-8dd6-0b812de55058",
+        "type": "message",
+        "text": ":blue_heart::purple_heart:",
+        "user": "UEM08LNN5",
+        "ts": "1573135196.005500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573133711.004100",
+        "parent_user_id": "UEM08LNN5"
+    }
+]

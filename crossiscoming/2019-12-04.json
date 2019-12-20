@@ -1,0 +1,34 @@
+[
+    {
+        "client_msg_id": "FF5AB56E-CD3F-4619-AB67-CC3D34A82CFE",
+        "type": "message",
+        "text": "Hey can you email the race coordinator? BikeReg isn’t transferring the reg to me outright since you’ve got the pass. ",
+        "user": "UEMQ8740M",
+        "ts": "1575507323.000800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575406680.009800",
+        "parent_user_id": "UENEJ7N85",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "UENEJ7N85"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

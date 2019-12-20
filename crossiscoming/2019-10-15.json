@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "5d3e8162-9b65-432d-92b9-e7b4811719af",
+        "type": "message",
+        "text": "Can someone meet me tomorrow night for a Reckless beer handoff? It'll be after 9pm... sorry so late. I have 3 cases of Personal Day for this DCCX weekend and won't be racing :(  I'm on an early flight to LA Thursday morning.",
+        "user": "UELTHSN2U",
+        "ts": "1571193328.032500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

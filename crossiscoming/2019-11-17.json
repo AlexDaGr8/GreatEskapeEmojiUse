@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "dfb6f957-75cc-4dd1-985c-044cf8507446",
+        "type": "message",
+        "text": "Does anyone want my registration",
+        "user": "UF1HPL518",
+        "ts": "1573999342.000300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5f2f460ec09c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-15\/874365254000_5f2f460ec09c420f9345_72.jpg",
+            "first_name": "Richo",
+            "real_name": "Richo Mundo",
+            "display_name": "Richo team Smol2Swol",
+            "team": "TENHSKBAT",
+            "name": "richmondknight",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0bf77658-eb85-4c11-b02e-ec8d83b9b91e",
+        "type": "message",
+        "text": "<!channel>",
+        "user": "UF1HPL518",
+        "ts": "1573999354.000500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5f2f460ec09c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-15\/874365254000_5f2f460ec09c420f9345_72.jpg",
+            "first_name": "Richo",
+            "real_name": "Richo Mundo",
+            "display_name": "Richo team Smol2Swol",
+            "team": "TENHSKBAT",
+            "name": "richmondknight",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

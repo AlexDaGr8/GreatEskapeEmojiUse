@@ -1,0 +1,521 @@
+[
+    {
+        "client_msg_id": "c119ef38-98b1-4e54-b69a-16d36dbb013d",
+        "type": "message",
+        "text": "Anyone thinking of doing frosty cross?",
+        "user": "UEMQVREAZ",
+        "ts": "1572877249.003400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "reply_count": 15,
+        "reply_users_count": 6,
+        "latest_reply": "1572904821.013300",
+        "reply_users": [
+            "UEMQVREAZ",
+            "UENFLMV8R",
+            "UEN71AM44",
+            "UEMG2LD43",
+            "UELTHSN2U",
+            "UEQCAP4Q4"
+        ],
+        "replies": [
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1572877332.003500"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1572877423.003700"
+            },
+            {
+                "user": "UENFLMV8R",
+                "ts": "1572877524.004800"
+            },
+            {
+                "user": "UEN71AM44",
+                "ts": "1572877656.005000"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1572878114.005200"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1572878184.005400"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1572881734.006000"
+            },
+            {
+                "user": "UENFLMV8R",
+                "ts": "1572887220.007000"
+            },
+            {
+                "user": "UELTHSN2U",
+                "ts": "1572887740.007200"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1572888763.008900"
+            },
+            {
+                "user": "UELTHSN2U",
+                "ts": "1572889163.009100"
+            },
+            {
+                "user": "UENFLMV8R",
+                "ts": "1572890555.010200"
+            },
+            {
+                "user": "UELTHSN2U",
+                "ts": "1572893458.010600"
+            },
+            {
+                "user": "UEQCAP4Q4",
+                "ts": "1572904588.012000"
+            },
+            {
+                "user": "UENFLMV8R",
+                "ts": "1572904821.013300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9f23dbd7-a5aa-41c5-add8-80e8d59d2acf",
+        "type": "message",
+        "text": "I know <@UENFLMV8R> and <@UEN71AM44> were thinking about it. Looks like cat breakdown is 123's at 3pm and 3\/4's at 3:01 pm with SS at 1pm.  So if the three of us wanted to go we could all basically be done at the time.",
+        "user": "UEMQVREAZ",
+        "ts": "1572877332.003500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "dc1791be-b218-425c-9115-879aff1426e5",
+        "type": "message",
+        "text": "Women go off at 2pm",
+        "user": "UEMQVREAZ",
+        "ts": "1572877423.003700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "5944D453-58F6-414B-8F9C-542AC31A47D0",
+        "type": "message",
+        "text": "Yeah, still contemplating. Will probably decide at reg cut off. Anyone else down?",
+        "user": "UENFLMV8R",
+        "ts": "1572877524.004800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "9272407a-d49f-44e6-8492-8bcbd283dc1b",
+        "type": "message",
+        "text": "im def going. i can take mass transit up there! i think i might race both masters+SS.",
+        "user": "UEN71AM44",
+        "ts": "1572877656.005000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "43a8334e-9227-4a50-815b-26ef1dbfc6d9",
+        "type": "message",
+        "text": "What a monster... I might double up at germantown...",
+        "user": "UEMQVREAZ",
+        "ts": "1572878114.005200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "b480651c-d40b-4040-b0d1-044a33f32e1b",
+        "type": "message",
+        "text": "Wait... scratch frosty cross... thought it was south of bmore... it's north...",
+        "user": "UEMQVREAZ",
+        "ts": "1572878184.005400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ",
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "UEN71AM44",
+                    "UEMG2LD43"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F746C154-643C-4FAF-9F84-3F6E93553002",
+        "type": "message",
+        "text": "I will see y’all Sunday!!!!",
+        "user": "UEMG2LD43",
+        "ts": "1572881734.006000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "C948523D-FE4F-4D94-8B12-9163BCC60644",
+        "type": "message",
+        "text": "<@UELTHSN2U>, you trying to race frostycross?",
+        "user": "UENFLMV8R",
+        "ts": "1572887220.007000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "fe77c6e3-e66a-44af-a179-5daf0910dd90",
+        "type": "message",
+        "text": "I didn't but are you doing it?!?!... Wait finally reading this thread. Haha could definitely happen for me",
+        "user": "UELTHSN2U",
+        "ts": "1572887740.007200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UELTHSN2U",
+            "ts": "1572887836.000000"
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "246b340a-d6af-4f31-8ed3-ba8e0114442e",
+        "type": "message",
+        "text": "<@UELTHSN2U> you are doing Sunday though right?",
+        "user": "UEMG2LD43",
+        "ts": "1572888763.008900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "16bcc3de-d9d4-46e9-9e64-a64eb5ad9834",
+        "type": "message",
+        "text": "I can't race Germantown cause Justin signed us up for(rock climbing) Lead Belay certification class.... So Saturday I could race.\nMy next race was going to be Rockburn.",
+        "user": "UELTHSN2U",
+        "ts": "1572889163.009100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ",
+        "reactions": [
+            {
+                "name": "mountain",
+                "users": [
+                    "UEN71AM44",
+                    "UEMG2LD43"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E6F19B6D-44C4-46A2-A064-86661083F4FB",
+        "type": "message",
+        "text": "<@UELTHSN2U> I’ll race Saturday if you race.",
+        "user": "UENFLMV8R",
+        "ts": "1572890555.010200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "b8e5ebd4-6bf2-4f97-8270-175d8c3e29e4",
+        "type": "message",
+        "text": "<@UENFLMV8R> alright, let's do it!!!",
+        "user": "UELTHSN2U",
+        "ts": "1572893458.010600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ",
+        "reactions": [
+            {
+                "name": "parrot",
+                "users": [
+                    "UENFLMV8R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c8c741c-0a81-41f2-9744-070b1db407d3",
+        "type": "message",
+        "text": "I opted for South Germantown instead of Frostycross. Going to double up the 1pm 4\/5 race and the 3pm singlespeed. Considered doing the 11am 3\/4 race too but... well, maybe.",
+        "user": "UEQCAP4Q4",
+        "ts": "1572904588.012000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "1544b1606cc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-05\/568114870915_1544b1606cc34dfae4eb_72.jpg",
+            "first_name": "drewball",
+            "real_name": "drewball",
+            "display_name": ".drewble.",
+            "team": "TENHSKBAT",
+            "name": "daballnc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ",
+        "reactions": [
+            {
+                "name": "reckless",
+                "users": [
+                    "UENFLMV8R",
+                    "UELTHSN2U",
+                    "UEN71AM44",
+                    "UEMG2LD43",
+                    "UELTX8WP3"
+                ],
+                "count": 5
+            },
+            {
+                "name": "cagepartyparrot",
+                "users": [
+                    "UEN71AM44",
+                    "UEMG2LD43",
+                    "UELTX8WP3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "674FA93A-C1B7-4E4D-A7B3-E8A3583CEA5D",
+        "type": "message",
+        "text": "If you do that, you’ll be a shoe in for reckless ride of the week. <@UEMG2LD43> would have to agree.",
+        "user": "UENFLMV8R",
+        "ts": "1572904821.013300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UENFLMV8R",
+            "ts": "1572904878.000000"
+        },
+        "thread_ts": "1572877249.003400",
+        "parent_user_id": "UEMQVREAZ",
+        "reactions": [
+            {
+                "name": "bikegif",
+                "users": [
+                    "UEQCAP4Q4",
+                    "UEMG2LD43",
+                    "UELTX8WP3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "reckless",
+                "users": [
+                    "UEMG2LD43",
+                    "UELTX8WP3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

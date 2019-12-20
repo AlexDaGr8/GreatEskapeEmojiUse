@@ -1,0 +1,224 @@
+[
+    {
+        "client_msg_id": "CEE16050-06CC-4E2A-A5E8-51F85DC0D316",
+        "type": "message",
+        "text": "Considering racing SS on Sunday instead of 4s",
+        "user": "UEMQ8740M",
+        "ts": "1569954837.027900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UEMQ8740M",
+            "ts": "1569954846.000000"
+        },
+        "reactions": [
+            {
+                "name": "vuvu",
+                "users": [
+                    "UELTHSN2U",
+                    "UEN71AM44",
+                    "UEMG2LD43"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8a426ee-96f7-4d88-b056-f9bc4b841a73",
+        "type": "message",
+        "text": "<https:\/\/media.tenor.com\/images\/d85d9f198d6b18d52267ef60314e7220\/tenor.gif>",
+        "user": "UELTX8WP3",
+        "ts": "1569954929.028200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "220x135px image",
+                "image_url": "https:\/\/media.tenor.com\/images\/d85d9f198d6b18d52267ef60314e7220\/tenor.gif",
+                "image_width": 220,
+                "image_height": 135,
+                "image_bytes": 115292,
+                "is_animated": true,
+                "from_url": "https:\/\/media.tenor.com\/images\/d85d9f198d6b18d52267ef60314e7220\/tenor.gif",
+                "id": 1,
+                "original_url": "https:\/\/media.tenor.com\/images\/d85d9f198d6b18d52267ef60314e7220\/tenor.gif"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FD9ECA6B-C899-418D-BFDD-6E6DE0EEB100",
+        "type": "message",
+        "text": "Dolla bills but also I’ve been getting the itch and have been wanting to scratch it. Also, what better course to do it than a grass crit?",
+        "user": "UEMQ8740M",
+        "ts": "1569955018.030000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569955018.030000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1569958871.031500",
+        "reply_users": [
+            "UEMG2LD43"
+        ],
+        "replies": [
+            {
+                "user": "UEMG2LD43",
+                "ts": "1569958871.031500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c07f4760-86f2-46e7-a1e1-d84b3fd1b8c8",
+        "type": "message",
+        "text": "awesomesauce! *also, yeah this shit is expensive. realtalk.",
+        "user": "UEN71AM44",
+        "ts": "1569956477.031200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "55B2DA17-E5FC-444D-87B7-8E3FE2AD1CA2",
+        "type": "message",
+        "text": "Truuuuu",
+        "user": "UEMG2LD43",
+        "ts": "1569958871.031500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569955018.030000",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "18DF9844-68D8-4461-8EA2-8E4332A3DA92",
+        "type": "message",
+        "text": "Second race is only 15 tho right?",
+        "user": "UEMG2LD43",
+        "ts": "1569958890.032000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "15C6FC19-48A7-45D4-9169-1D3FD39DC8D1",
+        "type": "message",
+        "text": "Can we same day for SS??",
+        "user": "UENEJ7N85",
+        "ts": "1569959565.032400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bcd4ee67b883",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-19\/869411891171_bcd4ee67b88399c98985_72.png",
+            "first_name": "co-bro",
+            "real_name": "co-bro commando",
+            "display_name": "",
+            "team": "TENHSKBAT",
+            "name": "ilahi.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5567019D-E897-4239-9E21-654B101BBAFC",
+        "type": "message",
+        "text": "Yeah!",
+        "user": "UEMG2LD43",
+        "ts": "1569959651.032600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UENEJ7N85",
+                    "UEPMPAJUB"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

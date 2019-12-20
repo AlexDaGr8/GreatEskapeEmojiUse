@@ -1,0 +1,164 @@
+[
+    {
+        "client_msg_id": "98669CC9-D7B5-4F83-9ABC-B9D7F2C6C3BF",
+        "type": "message",
+        "text": "<!channel> let’s get those plops today, team. Hope you’re all at least one down by now. Good luck out there.",
+        "user": "UENFLMV8R",
+        "ts": "1570963969.023200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rave-poop",
+                "users": [
+                    "UELTX8WP3",
+                    "UF1HPL518",
+                    "UEM08LNN5",
+                    "UEM1Y8CQH",
+                    "UFSTM599S",
+                    "UEN71AM44"
+                ],
+                "count": 6
+            },
+            {
+                "name": "toilet",
+                "users": [
+                    "UF1HPL518",
+                    "UEM1Y8CQH",
+                    "UEN71AM44",
+                    "UEM08LNN5"
+                ],
+                "count": 4
+            },
+            {
+                "name": "hankey",
+                "users": [
+                    "UELTHSN2U",
+                    "UEN71AM44",
+                    "UEM08LNN5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ECAEC845-50F8-4DCA-A931-27AF595953EA",
+        "type": "message",
+        "text": "#teamplopscounter",
+        "user": "UENFLMV8R",
+        "ts": "1570964055.024500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8bc56a26-ef05-4e01-ac04-56b846de8249",
+        "type": "message",
+        "text": "Can someone bring a trash bag or two?",
+        "user": "UELTX8WP3",
+        "ts": "1570966021.025600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570966021.025600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1570967318.026000",
+        "reply_users": [
+            "UEM08LNN5",
+            "UELTX8WP3"
+        ],
+        "replies": [
+            {
+                "user": "UEM08LNN5",
+                "ts": "1570966618.025700"
+            },
+            {
+                "user": "UELTX8WP3",
+                "ts": "1570967318.026000"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1570967318.026000"
+    },
+    {
+        "client_msg_id": "44f01bad-d6c2-4f64-834f-cc4ebc716639",
+        "type": "message",
+        "text": "On it",
+        "user": "UEM08LNN5",
+        "ts": "1570966618.025700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570966021.025600",
+        "parent_user_id": "UELTX8WP3"
+    },
+    {
+        "client_msg_id": "a8117400-c345-403b-b46e-f259f8285ade",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "UELTX8WP3",
+        "ts": "1570967318.026000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570966021.025600",
+        "parent_user_id": "UELTX8WP3"
+    }
+]

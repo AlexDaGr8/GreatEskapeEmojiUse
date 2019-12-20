@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "a846aa37-d819-45ba-87a5-8e7a26775d26",
+        "type": "message",
+        "text": "Reminder that bikeneticx opens for registration tonight at 8pm!",
+        "user": "UELTX8WP3",
+        "ts": "1571079249.029400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

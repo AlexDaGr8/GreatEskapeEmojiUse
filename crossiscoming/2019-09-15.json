@@ -1,0 +1,25 @@
+[
+    {
+        "client_msg_id": "e7aabd19-e12b-4e46-8db0-9d7ee58dd505",
+        "type": "message",
+        "text": ":ghost:",
+        "user": "UEN71AM44",
+        "ts": "1568599748.000200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568405075.027900",
+        "parent_user_id": "UELTHSN2U"
+    }
+]

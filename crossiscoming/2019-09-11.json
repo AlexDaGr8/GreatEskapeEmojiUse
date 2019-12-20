@@ -1,0 +1,469 @@
+[
+    {
+        "client_msg_id": "fe4b3495-e8af-4a2b-b25e-af64b38a9306",
+        "type": "message",
+        "text": "Last weekend made me realize that I need way more cx skills practice in my life. \n\n1. Let's do colmar manner again this Saturday. 9?\n\n2. <@UEMQ8740M> and I are going to head to anacostia river Park tonight at 6 for some barriers practice. We'll post up close to the 11th St bridge, join us!",
+        "user": "UEM08LNN5",
+        "ts": "1568207577.005900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "reply_count": 22,
+        "reply_users_count": 6,
+        "latest_reply": "1568406968.033400",
+        "reply_users": [
+            "UEPMPAJUB",
+            "UEMQ8740M",
+            "UEM1Y8CQH",
+            "UEM08LNN5",
+            "UEMQVREAZ",
+            "UELTHSN2U"
+        ],
+        "replies": [
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1568207893.006000"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1568207917.006400"
+            },
+            {
+                "user": "UEMQ8740M",
+                "ts": "1568207923.006800"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1568207977.007200"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1568208069.007400"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1568208086.007600"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1568210390.008800"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1568210505.009000"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1568210512.009200"
+            },
+            {
+                "user": "UELTHSN2U",
+                "ts": "1568211024.009400"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1568212059.010300"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1568306641.014000"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1568314793.015600"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1568314933.015800"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1568318438.017500"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1568318489.018800"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1568319369.021700"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1568325890.022500"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1568325921.023500"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1568325969.024000"
+            },
+            {
+                "user": "UEMQ8740M",
+                "ts": "1568406775.033000"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1568406968.033400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0ad40399-8828-4f58-a2fa-33ce73b91df1",
+        "type": "message",
+        "text": "1. yes 2. going for a run :scream::sob::nauseated_face:",
+        "user": "UEPMPAJUB",
+        "ts": "1568207893.006000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "f40bf514-a247-4f6c-9f1c-ef0ce0f17c69",
+        "type": "message",
+        "text": "This time long hot laps?",
+        "user": "UEPMPAJUB",
+        "ts": "1568207917.006400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "69DEB70D-E47F-4DC7-A27C-8933EF742FDD",
+        "type": "message",
+        "text": "I’m down for Colmar on Saturday!!",
+        "user": "UEMQ8740M",
+        "ts": "1568207923.006800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "E9EE5B5A-B7B0-421F-8A77-ABD58F8606AE",
+        "type": "message",
+        "text": "Me too for colmar",
+        "user": "UEM1Y8CQH",
+        "ts": "1568207977.007200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "3b2e5da0-ce2c-4f7e-be48-f61318c7ba28",
+        "type": "message",
+        "text": "Yes to long hot laps, boo to running!",
+        "user": "UEM08LNN5",
+        "ts": "1568208069.007400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "5be98ca8-89bd-43c0-a76c-38d4c5afdfbd",
+        "type": "message",
+        "text": "(but also I need to run too, but still boo)",
+        "user": "UEM08LNN5",
+        "ts": "1568208086.007600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "cb0a7868-8ca4-445a-b2cc-a08bbbd4701f",
+        "type": "message",
+        "text": "Can I hitch a ride with anyone to reckless cx?",
+        "user": "UEPMPAJUB",
+        "ts": "1568208143.008000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568208143.008000",
+        "reply_count": 12,
+        "reply_users_count": 2,
+        "latest_reply": "1568839815.011100",
+        "reply_users": [
+            "UEMQVREAZ",
+            "UEPMPAJUB"
+        ],
+        "replies": [
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1568306493.011000"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1568306508.011500"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1568318770.019600"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1568332259.024600"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1568828039.004000"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1568833202.006300"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1568833258.007500"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1568833273.008000"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1568835058.009500"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1568836597.009900"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1568837077.010800"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1568839815.011100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7EBF8C0D-B4A1-4175-B465-43299FC4E767",
+        "type": "message",
+        "text": "I'm into this. Anyone wanna maybe hit up ft Dupont on the way there? ",
+        "user": "UEMQVREAZ",
+        "ts": "1568210390.008800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "e2910e76-3bca-41d5-b09a-92b4e4d25cca",
+        "type": "message",
+        "text": "I'm in to that idea. Have to be a bit of an early start, and someone else might have to haul the barriers up",
+        "user": "UEM08LNN5",
+        "ts": "1568210505.009000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UEMQ8740M",
+                    "UEM1Y8CQH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61f12c64-3775-4553-be6f-6d652bcc3693",
+        "type": "message",
+        "text": "But in down",
+        "user": "UEM08LNN5",
+        "ts": "1568210512.009200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "6ac2c1be-d686-4010-a09b-496f0758c447",
+        "type": "message",
+        "text": "did CX drills and ran laps this morning... yeah, running sucks.",
+        "user": "UELTHSN2U",
+        "ts": "1568211024.009400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "DE25B7D7-DDC9-4F7A-9C40-0D112A8859AB",
+        "type": "message",
+        "text": "Yeah, would def be a bit of an early one. Let's duet tho!!",
+        "user": "UEMQVREAZ",
+        "ts": "1568212059.010300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568207577.005900",
+        "parent_user_id": "UEM08LNN5"
+    }
+]

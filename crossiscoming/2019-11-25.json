@@ -1,0 +1,445 @@
+[
+    {
+        "client_msg_id": "6a595031-ce61-4c06-b368-8dee556942bb",
+        "type": "message",
+        "text": "I was supposed to be away with family for the holiday but plans have changed and I will be around the dmv. Anyone thinking about racing this upcoming weekend? Rivertown Cross near York, Penna. 105 miles from SWDC.",
+        "user": "UEN71AM44",
+        "ts": "1574690168.002100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a9L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was supposed to be away with family for the holiday but plans have changed and I will be around the dmv. Anyone thinking about racing this upcoming weekend? Rivertown Cross near York, Penna. 105 miles from SWDC."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574690168.002100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1574691679.003400",
+        "reply_users": [
+            "UEMQ8740M",
+            "UEMQVREAZ"
+        ],
+        "replies": [
+            {
+                "user": "UEMQ8740M",
+                "ts": "1574690416.003100"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1574691679.003400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D11F19C8-DFD5-4BED-8FBB-F652032AD587",
+        "type": "message",
+        "text": "That would be so much fun. BUT I have a friend in town and I can’t hijack her trip for me to race haha",
+        "user": "UEMQ8740M",
+        "ts": "1574690416.003100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1574690168.002100",
+        "parent_user_id": "UEN71AM44"
+    },
+    {
+        "client_msg_id": "d79155b8-595d-4583-ac26-4e5d9609cd95",
+        "type": "message",
+        "text": "Looks interesting. I'm tempted.",
+        "user": "UEMQVREAZ",
+        "ts": "1574691679.003400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4jip3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks interesting. I'm tempted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574690168.002100",
+        "parent_user_id": "UEN71AM44",
+        "reactions": [
+            {
+                "name": "cagepartyparrot",
+                "users": [
+                    "UEN71AM44",
+                    "UELTX8WP3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "686D222C-5455-409C-9E8F-9A5A19C11934",
+        "type": "message",
+        "text": "Guys. I just did a thing I haven’t done in three years!",
+        "user": "UENKAEABU",
+        "ts": "1574714627.004300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "30b5c9dfe817",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/498490595412_30b5c9dfe81702b72f34_72.png",
+            "first_name": "Sean",
+            "real_name": "Sean Murnane",
+            "display_name": "MurMan",
+            "team": "TENHSKBAT",
+            "name": "murnanesf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0ffe30ce-78f2-4a99-9a7a-278db29d8e06",
+        "type": "message",
+        "text": "Uh oh..",
+        "user": "UEMQ8740M",
+        "ts": "1574714709.004600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rKIBP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Uh oh.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E840E73E-4B13-4B41-8BD0-E05132FE0C62",
+        "type": "message",
+        "text": "Did that pre regggggggggg!!!",
+        "user": "UENKAEABU",
+        "ts": "1574714909.005000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "30b5c9dfe817",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/498490595412_30b5c9dfe81702b72f34_72.png",
+            "first_name": "Sean",
+            "real_name": "Sean Murnane",
+            "display_name": "MurMan",
+            "team": "TENHSKBAT",
+            "name": "murnanesf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a591bc08-e49c-4485-b127-fb2cbafb77b9",
+        "type": "message",
+        "text": "woooah! cap cross?",
+        "user": "UEMG2LD43",
+        "ts": "1574714938.005200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2+32",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "woooah! cap cross?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67cf3560-2613-4257-8fee-765cf6b17178",
+        "type": "message",
+        "text": "YAYAYAYAYAAAAAAAAYYYY!!!!!",
+        "user": "UEMQ8740M",
+        "ts": "1574714956.005400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nkaN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YAYAYAYAYAAAAAAAAYYYY!!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97CD00BF-C9F6-4449-A973-F5524CE4C710",
+        "type": "message",
+        "text": "Yeahhh boiiiii",
+        "user": "UENKAEABU",
+        "ts": "1574714961.005600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "30b5c9dfe817",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/498490595412_30b5c9dfe81702b72f34_72.png",
+            "first_name": "Sean",
+            "real_name": "Sean Murnane",
+            "display_name": "MurMan",
+            "team": "TENHSKBAT",
+            "name": "murnanesf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1574714961.005600",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1574715020.005900",
+        "reply_users": [
+            "UEMQ8740M"
+        ],
+        "replies": [
+            {
+                "user": "UEMQ8740M",
+                "ts": "1574715015.005700"
+            },
+            {
+                "user": "UEMQ8740M",
+                "ts": "1574715020.005900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e8edc169-5937-42a3-ab54-1c7276b868e4",
+        "type": "message",
+        "text": "interestingly enough, this is also the last message I typed out.",
+        "user": "UEMQ8740M",
+        "ts": "1574715015.005700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IjWz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "interestingly enough, this is also the last message I typed out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574714961.005600",
+        "parent_user_id": "UENKAEABU"
+    },
+    {
+        "client_msg_id": "b672a353-1a93-4490-a279-45f1dd4d9471",
+        "type": "message",
+        "text": "\"yeah boiii!!!!\"",
+        "user": "UEMQ8740M",
+        "ts": "1574715020.005900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8UJlo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"yeah boiii!!!!\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574714961.005600",
+        "parent_user_id": "UENKAEABU"
+    },
+    {
+        "client_msg_id": "e59d996c-d499-43f0-9129-bc322610e5a4",
+        "type": "message",
+        "text": "hahahaha yesss",
+        "user": "UEMG2LD43",
+        "ts": "1574715614.006200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Vgh=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahahaha yesss"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

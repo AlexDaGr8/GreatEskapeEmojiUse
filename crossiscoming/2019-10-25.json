@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "74412089-664f-4025-a414-2d8f3a65cd49",
+        "type": "message",
+        "text": "Friendly reminder: toe spikes",
+        "user": "UEN71AM44",
+        "ts": "1572035060.000600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E9452063-E35F-4603-9F8E-4624225C3661",
+        "type": "message",
+        "text": "Oh wow I wonder if my friendly neighborhood contes would have them",
+        "user": "UEM1Y8CQH",
+        "ts": "1572035444.001200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572035444.001200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1572089504.000600",
+        "reply_users": [
+            "UEMQ8740M"
+        ],
+        "replies": [
+            {
+                "user": "UEMQ8740M",
+                "ts": "1572089504.000600"
+            }
+        ],
+        "subscribed": false
+    }
+]

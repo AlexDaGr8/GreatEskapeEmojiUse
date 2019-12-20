@@ -1,0 +1,136 @@
+[
+    {
+        "client_msg_id": "74F64514-6B11-4AEC-B85E-1EA8F1C276B6",
+        "type": "message",
+        "text": "Set up in Germantown, between rcv and proteus",
+        "user": "UENFLMV8R",
+        "ts": "1573395470.000600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3624351A-8B2D-44FE-AE46-A2ADF5EC4146",
+        "type": "message",
+        "text": "Good luck to everyone today. I’m expecting lots of podium pics and epic handups. ",
+        "user": "UEMQ8740M",
+        "ts": "1573397400.001300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573397400.001300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1573474141.000200",
+        "reply_users": [
+            "UEMG2LD43",
+            "UEMQ8740M"
+        ],
+        "replies": [
+            {
+                "user": "UEMG2LD43",
+                "ts": "1573430111.000100"
+            },
+            {
+                "user": "UEMQ8740M",
+                "ts": "1573474141.000200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "handup",
+                "users": [
+                    "UEM08LNN5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FQ4V3S1EV",
+                "created": 1573430106,
+                "timestamp": 1573430106,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UEMG2LD43",
+                "editable": false,
+                "size": 2095927,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TENHSKBAT-FQ4V3S1EV\/image_from_ios.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TENHSKBAT-FQ4V3S1EV\/download\/image_from_ios.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ4V3S1EV-9e329679b9\/image_from_ios_64.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ4V3S1EV-9e329679b9\/image_from_ios_80.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ4V3S1EV-9e329679b9\/image_from_ios_360.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ4V3S1EV-9e329679b9\/image_from_ios_480.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ4V3S1EV-9e329679b9\/image_from_ios_160.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ4V3S1EV-9e329679b9\/image_from_ios_720.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ4V3S1EV-9e329679b9\/image_from_ios_800.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ4V3S1EV-9e329679b9\/image_from_ios_960.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FQ4V3S1EV-9e329679b9\/image_from_ios_1024.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 2048,
+                "original_h": 1536,
+                "thumb_tiny": "AwAkADB4lJbI4NWonLDms5gUwDwevWnecwHLUrjL8kuyoY7jzpiowFxxVMtvJySaRTtPBx70XEXPNUFhnkdPeoy4YqMYFV9wFIWweuKLgIZgz\/MoXP8AdGKkMQcbs8etEaByQQDxUogVe360MZXZfLUHOVPQinbt5AK\/TNSSxB0IJxjpiiFQiAckj2o6B1IzFnqh\/CkKexqxs9KMH3qQIIGIY1MHJB+tQQ\/eNSr0P1py3EEhOAPenhiO\/vUcnb608dPwFHQCQHjNJuNA6UlIZ\/\/Z",
+                "permalink": "https:\/\/greateskape.slack.com\/files\/UEMG2LD43\/FQ4V3S1EV\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TENHSKBAT-FQ4V3S1EV-7063939b0d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UEMG2LD43",
+        "display_as_bot": false,
+        "upload_reply_to": "D00D0900-288A-4A20-9D43-A664CB86CA64",
+        "ts": "1573430111.000100",
+        "thread_ts": "1573397400.001300",
+        "parent_user_id": "UEMQ8740M"
+    }
+]

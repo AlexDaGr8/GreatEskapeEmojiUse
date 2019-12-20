@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "3475369D-29E7-40A0-A1C6-FCFD6F9722F7",
+        "type": "message",
+        "text": "Well, the doc said I’m surprisingly healthy considering how much I’ve crashed recently (and no concussion symptoms)",
+        "user": "UEPMPAJUB",
+        "ts": "1568997685.010300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "parrot",
+                "users": [
+                    "UEMQVREAZ",
+                    "UEN71AM44",
+                    "UEMG2LD43",
+                    "UEMQ8740M",
+                    "UELTHSN2U",
+                    "UENFLMV8R"
+                ],
+                "count": 6
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "UEMQVREAZ",
+                    "UEN71AM44",
+                    "UEMG2LD43",
+                    "UELTHSN2U",
+                    "UENFLMV8R"
+                ],
+                "count": 5
+            },
+            {
+                "name": "vuvu",
+                "users": [
+                    "UELTHSN2U",
+                    "UENFLMV8R"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

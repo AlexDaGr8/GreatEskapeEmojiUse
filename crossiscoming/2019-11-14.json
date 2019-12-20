@@ -1,0 +1,32 @@
+[
+    {
+        "client_msg_id": "D2B1B748-328B-40D3-9704-5C425DA95718",
+        "type": "message",
+        "text": "Anyone need a registration for Rockburn?  I’ll just be returning from Arizona",
+        "user": "UENEJ7N85",
+        "ts": "1573745609.000900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bcd4ee67b883",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-19\/869411891171_bcd4ee67b88399c98985_72.png",
+            "first_name": "co-bro",
+            "real_name": "co-bro commando",
+            "display_name": "",
+            "team": "TENHSKBAT",
+            "name": "ilahi.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "hand",
+                "users": [
+                    "UELTHSN2U"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

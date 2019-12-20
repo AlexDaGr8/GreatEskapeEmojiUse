@@ -1,0 +1,1111 @@
+[
+    {
+        "client_msg_id": "AAACD258-3D30-4139-925C-F0E511BFF973",
+        "type": "message",
+        "text": "Would people be interested in doing some trails\/skills work on our CX bikes this weekend? ",
+        "user": "UEMQVREAZ",
+        "ts": "1567690759.019600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "reply_count": 39,
+        "reply_users_count": 7,
+        "latest_reply": "1567795798.039400",
+        "reply_users": [
+            "UEM1Y8CQH",
+            "UEPMPAJUB",
+            "UEMG2LD43",
+            "UEMQVREAZ",
+            "UEMQ8740M",
+            "UEM08LNN5",
+            "UENEJ7N85"
+        ],
+        "replies": [
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1567690791.019800"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1567691306.020100"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1567691576.020300"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1567691623.021200"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1567691661.021400"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1567691675.021600"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1567691702.021800"
+            },
+            {
+                "user": "UEMQ8740M",
+                "ts": "1567691706.022000"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1567691740.022200"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1567691754.022500"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1567691770.023200"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1567691794.023700"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1567691929.023900"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1567691946.024100"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1567691964.024300"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1567692001.024500"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1567693684.024900"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1567694442.025700"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1567695211.026800"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1567695257.027100"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1567695665.028900"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1567695688.029800"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1567696438.030400"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1567697794.030600"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1567697824.030800"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1567697850.031400"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1567698217.032400"
+            },
+            {
+                "user": "UEMQVREAZ",
+                "ts": "1567698269.033400"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1567698269.033600"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1567698771.033900"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1567698878.034200"
+            },
+            {
+                "user": "UENEJ7N85",
+                "ts": "1567700378.035300"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1567700974.035500"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1567731198.035900"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1567731210.036100"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1567731256.036300"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1567731446.036600"
+            },
+            {
+                "user": "UENEJ7N85",
+                "ts": "1567795752.038300"
+            },
+            {
+                "user": "UENEJ7N85",
+                "ts": "1567795798.039400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "parrot",
+                "users": [
+                    "UEM1Y8CQH",
+                    "UEMG2LD43",
+                    "UEM08LNN5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C1846FB7-21BC-4DCC-A8F5-6E9ECFB32DE4",
+        "type": "message",
+        "text": "Yes! ",
+        "user": "UEM1Y8CQH",
+        "ts": "1567690791.019800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "4d144ff1-90d6-44dc-b63a-10c9c708aeee",
+        "type": "message",
+        "text": "yea! I was thinking about doing hotlaps at colmar manor",
+        "user": "UEPMPAJUB",
+        "ts": "1567691306.020100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "4d427f21-d0eb-4f33-b784-41c57477ea9e",
+        "type": "message",
+        "text": "yeah, i would be in to do some work. i was eyeing rosaryville too maybe? or cabin john up near the park where there are some steps as well as trails?",
+        "user": "UEMG2LD43",
+        "ts": "1567691576.020300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "B9189E68-B70A-4C6F-8A05-398511330D6E",
+        "type": "message",
+        "text": "I was thinking cabin John as well. Cuz then we could meet in DC and ride up together. ",
+        "user": "UEMQVREAZ",
+        "ts": "1567691623.021200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "e8a7649c-905f-4783-a0ca-0ac4efa4b8d7",
+        "type": "message",
+        "text": "yeah, though i could be convinced to do colmar manor too, cabby j just sems like more fun",
+        "user": "UEMG2LD43",
+        "ts": "1567691661.021400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "b22ec259-23b3-4a11-b576-620f451b1f65",
+        "type": "message",
+        "text": "we're not here for fun. cross is here bre",
+        "user": "UEPMPAJUB",
+        "ts": "1567691675.021600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "b6f151c8-d1fe-421f-8955-2e3f8fa53478",
+        "type": "message",
+        "text": "lol only one reason to do this!",
+        "user": "UEMG2LD43",
+        "ts": "1567691702.021800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "188a136b-040e-4f72-b63b-a7867474d6b7",
+        "type": "message",
+        "text": "I would love this! But i also know my schedule is not v flexible. Crabby J sounds amazing though.",
+        "user": "UEMQ8740M",
+        "ts": "1567691706.022000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "c259c6a3-2958-4544-810d-77c14dd50603",
+        "type": "message",
+        "text": "i haven't ridden the jawn in a while. are the trails in good shape?",
+        "user": "UEPMPAJUB",
+        "ts": "1567691740.022200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "B67A9B46-7B5F-49E8-8CDF-5560A3BB1AD2",
+        "type": "message",
+        "text": "Only one way to find out",
+        "user": "UEMQVREAZ",
+        "ts": "1567691754.022500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "EBABCFD3-D25E-43E6-9B96-8B16D298FCA7",
+        "type": "message",
+        "text": "And if you're not having fun then your not gonna try as hard",
+        "user": "UEMQVREAZ",
+        "ts": "1567691770.023200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "1915A97A-2765-4D24-9743-BAB676462C38",
+        "type": "message",
+        "text": "There's plenty of time for suffering throughout the season",
+        "user": "UEMQVREAZ",
+        "ts": "1567691794.023700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "ec75b484-9a93-4bc2-961f-4d344ac50382",
+        "type": "message",
+        "text": "the overachiever in me wants to get started on suffering now though",
+        "user": "UEPMPAJUB",
+        "ts": "1567691929.023900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "d98e20f6-0523-4a34-911f-f929f5532725",
+        "type": "message",
+        "text": "<@UEPMPAJUB> i havent been up there in a while but i was probably going to bring my mtb out this weekend whatever day im not on my CX bike so could check it out if it works out to do so. the area around the park grounds themselves are probably suitable for hot laps too",
+        "user": "UEMG2LD43",
+        "ts": "1567691946.024100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "08406111-586b-4265-902e-76748b2422da",
+        "type": "message",
+        "text": "also fish taco.",
+        "user": "UEMG2LD43",
+        "ts": "1567691964.024300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "UEPMPAJUB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53a60de0-d9e3-41b1-8911-eb4866dc7d11",
+        "type": "message",
+        "text": "single track is fun, and im down, but we should make sure there is some skill and drill work to be done while we are out there. i need that more than anything else",
+        "user": "UEMG2LD43",
+        "ts": "1567692001.024500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "10255d09-9041-4dcc-9f86-8c7b595ca5dc",
+        "type": "message",
+        "text": "Skills and drills are my priority too",
+        "user": "UEM1Y8CQH",
+        "ts": "1567693684.024900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "CD1190DB-1615-4981-87C1-B3612F1ACBDF",
+        "type": "message",
+        "text": "Yea, same. Would love to do hot laps to get them in at race speed",
+        "user": "UEPMPAJUB",
+        "ts": "1567694442.025700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "52B43A7C-11EE-430D-B17C-DA3B6E38174D",
+        "type": "message",
+        "text": "So skills training followed by a training race? That's what I'm hearing... Winner gets beer? Loser also gets beer? ",
+        "user": "UEMQVREAZ",
+        "ts": "1567695211.026800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "0b612c0d-7385-48c8-ac20-c555fbc592bc",
+        "type": "message",
+        "text": "hahahah. I think we could do hotlaps at either colmar or cabby J",
+        "user": "UEMG2LD43",
+        "ts": "1567695257.027100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "4BC873FE-AD48-4D1E-B034-4DC6DB9E97D3",
+        "type": "message",
+        "text": "My vote is colmar just due to time constraints ",
+        "user": "UEPMPAJUB",
+        "ts": "1567695665.028900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "A27632D7-68F8-4006-A138-F22FB0090F47",
+        "type": "message",
+        "text": "Also it’s a nice loop",
+        "user": "UEPMPAJUB",
+        "ts": "1567695688.029800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "60bc82ec-1e1c-4d6b-a02e-a65d5259e49b",
+        "type": "message",
+        "text": "oh, reminds me <@UELTHSN2U> Wednesday evening cross practice at an estate\/farm in Stevenson, MD. course with lots of turning and very bumpy, but its nice to get out and work a few hot laps.",
+        "user": "UEN71AM44",
+        "ts": "1567695802.030300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567695802.030300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1567808578.039600",
+        "reply_users": [
+            "UELTHSN2U"
+        ],
+        "replies": [
+            {
+                "user": "UELTHSN2U",
+                "ts": "1567808578.039600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9b4db0b2-3716-49e7-920b-021799129236",
+        "type": "message",
+        "text": "which day?",
+        "user": "UEMG2LD43",
+        "ts": "1567696438.030400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "47fdcef1-c13b-41fa-9280-f9f168f760a3",
+        "type": "message",
+        "text": "I don't think I've ridden Colmar.. pretty accessible from the art, it looks like",
+        "user": "UEM08LNN5",
+        "ts": "1567697794.030600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "233f61b0-bd77-4a4c-9a84-6a5b9c8fe7ef",
+        "type": "message",
+        "text": "Saturday afternoon\/evening? Pretty sure <@UENKAEABU> said he could ride then",
+        "user": "UEM08LNN5",
+        "ts": "1567697824.030800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "CE7D64DA-59CF-43AC-98EE-D6C3FB15F9BC",
+        "type": "message",
+        "text": "Seconded ^",
+        "user": "UEMQVREAZ",
+        "ts": "1567697850.031400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "F70F3D8F-4321-48BA-82CE-0DF87D73DC7C",
+        "type": "message",
+        "text": "Thirded, feels like about time for a poll ",
+        "user": "UEM1Y8CQH",
+        "ts": "1567698217.032400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "CAA9AABD-B41A-440D-8412-10A516D371D9",
+        "type": "message",
+        "text": "I'm not sure how a stripper pole would help this situation but I'm all for it",
+        "user": "UEMQVREAZ",
+        "ts": "1567698269.033400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ",
+        "reactions": [
+            {
+                "name": "man-with-bunny-ears-partying",
+                "users": [
+                    "UEN71AM44",
+                    "UEM08LNN5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5eff1e02-41e6-4d79-8599-993f7e4767af",
+        "type": "message",
+        "text": "sounds good. i may do single track saturday during the morning\/early afternoon and or sunday so plenty of riding for me this weekend. id like to spend most of the weekend on my mtb or cross bikes, i can fit colmar laps and drills into that. we need barriers right? who has some? coordinate with me on <#CENBK914J|grouprides>",
+        "user": "UEMG2LD43",
+        "ts": "1567698269.033600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "ea8326fa-3cba-4ccf-88cc-54103915f204",
+        "type": "message",
+        "text": "at risk of being very popular, maybe we consider a morning to do hotlaps before it gets too...hot?",
+        "user": "UEPMPAJUB",
+        "ts": "1567698771.033900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "77b68907-58b5-4ad9-9f65-6487cc98bf67",
+        "type": "message",
+        "text": "also to avoid conflicts with other people using the park",
+        "user": "UEPMPAJUB",
+        "ts": "1567698878.034200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "9707B99D-CC85-4622-B9A8-A3A30FC14AF3",
+        "type": "message",
+        "text": "CXHairs does practices at Colmar and have been telling me to go ther for ages.  Have fun!",
+        "user": "UENEJ7N85",
+        "ts": "1567700378.035300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bcd4ee67b883",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-19\/869411891171_bcd4ee67b88399c98985_72.png",
+            "first_name": "co-bro",
+            "real_name": "co-bro commando",
+            "display_name": "",
+            "team": "TENHSKBAT",
+            "name": "ilahi.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "5c038e38-0f13-4c5d-9f51-4d1f997f0ce9",
+        "type": "message",
+        "text": "im down for the morning, and can drive a couple people to cabby or rosaryville after if people want to continue riding",
+        "user": "UEMG2LD43",
+        "ts": "1567700974.035500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "9E21B103-DDEA-420F-AD85-5616B278BBF3",
+        "type": "message",
+        "text": "Does anyone have barriers?",
+        "user": "UEMG2LD43",
+        "ts": "1567731198.035900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "fdd0d00a-0912-4301-9660-b3f519ceafa1",
+        "type": "message",
+        "text": "I do",
+        "user": "UEM08LNN5",
+        "ts": "1567731210.036100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "44aa4c34-5fda-49dc-889f-e83c6c878f13",
+        "type": "message",
+        "text": "My own set and borrowed <@UEMQ8740M>s as well, which pack up a little nicer",
+        "user": "UEM08LNN5",
+        "ts": "1567731256.036300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "016F086A-3467-44FE-9FD5-ABD67BBD0099",
+        "type": "message",
+        "text": "Oh that’s awesome ",
+        "user": "UEMG2LD43",
+        "ts": "1567731446.036600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    }
+]

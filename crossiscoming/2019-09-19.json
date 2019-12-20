@@ -1,0 +1,562 @@
+[
+    {
+        "client_msg_id": "56bd55bc-bb31-4936-aaca-9ddfc675e20d",
+        "type": "message",
+        "text": "There is a multimodal transport crew meeting at Gallery Place at 8:30 on Sunday to metro up to rockville, it's a quick 2 miles to the course from there. We'll be there for the start of the 10am race!",
+        "user": "UEM1Y8CQH",
+        "ts": "1568901091.001400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568901091.001400",
+        "reply_count": 19,
+        "reply_users_count": 3,
+        "latest_reply": "1569154702.021300",
+        "reply_users": [
+            "UEM08LNN5",
+            "UEM1Y8CQH",
+            "UELTX8WP3"
+        ],
+        "replies": [
+            {
+                "user": "UEM08LNN5",
+                "ts": "1568901551.003100"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1568901622.003300"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1568901703.003500"
+            },
+            {
+                "user": "UELTX8WP3",
+                "ts": "1568902257.004000"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1569111568.015600"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1569111612.015900"
+            },
+            {
+                "user": "UELTX8WP3",
+                "ts": "1569111615.016100"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1569111718.016300"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1569148852.017000"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1569148863.017400"
+            },
+            {
+                "user": "UELTX8WP3",
+                "ts": "1569148887.017600"
+            },
+            {
+                "user": "UELTX8WP3",
+                "ts": "1569148908.018100"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1569148929.018800"
+            },
+            {
+                "user": "UELTX8WP3",
+                "ts": "1569148948.019000"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1569148994.020300"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1569154635.020500"
+            },
+            {
+                "user": "UELTX8WP3",
+                "ts": "1569154674.020700"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1569154682.021100"
+            },
+            {
+                "user": "UELTX8WP3",
+                "ts": "1569154702.021300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1569154702.021300",
+        "reactions": [
+            {
+                "name": "parrot",
+                "users": [
+                    "UELTX8WP3",
+                    "UEM08LNN5",
+                    "UEMG2LD43"
+                ],
+                "count": 3
+            },
+            {
+                "name": "vuvu",
+                "users": [
+                    "UELTX8WP3",
+                    "UEM08LNN5",
+                    "UEMG2LD43"
+                ],
+                "count": 3
+            },
+            {
+                "name": "uni-dab",
+                "users": [
+                    "UELTX8WP3",
+                    "UEN71AM44",
+                    "UEM08LNN5",
+                    "UEMG2LD43"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UELTX8WP3",
+                    "UEM08LNN5",
+                    "UEMG2LD43"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6185536-7338-4cbb-ba45-a9cff07bb9df",
+        "type": "message",
+        "text": "oh man guys, I've already got the nervous pee going.",
+        "user": "UEMQ8740M",
+        "ts": "1568901428.002200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568901428.002200",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1568913723.007500",
+        "reply_users": [
+            "UEM1Y8CQH",
+            "UEN71AM44",
+            "UEPMPAJUB",
+            "UEM08LNN5"
+        ],
+        "replies": [
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1568901465.002900"
+            },
+            {
+                "user": "UEN71AM44",
+                "ts": "1568902197.003800"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1568907501.004900"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1568908890.005100"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1568909256.005800"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1568913723.007500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fc570ab5-0d6d-4595-987c-464e4aecfee6",
+        "type": "message",
+        "text": "lololol. But remember, it's the plops that count.",
+        "user": "UEM1Y8CQH",
+        "ts": "1568901465.002900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568901428.002200",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "90997bb9-b276-4e8a-baa8-899bb126ce23",
+        "type": "message",
+        "text": "Also, dude, Chinatown is not the preferred nomenclature. Gallery Place, please.",
+        "user": "UEM08LNN5",
+        "ts": "1568901551.003100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568901091.001400",
+        "parent_user_id": "UEM1Y8CQH"
+    },
+    {
+        "client_msg_id": "b23d7bd4-4207-4d31-82a8-c5b509c09866",
+        "type": "message",
+        "text": "(I know this doesn't make sense as a response here, but I can't believe I've been missing this obvious reference for so long.. especially since I always call it Chinatown..)",
+        "user": "UEM08LNN5",
+        "ts": "1568901622.003300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568901091.001400",
+        "parent_user_id": "UEM1Y8CQH",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UEN71AM44",
+                    "UEMG2LD43"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bored",
+                "users": [
+                    "UEMG2LD43"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ddf69a83-ef5c-47c2-8d3e-52d2f9d841e4",
+        "type": "message",
+        "text": "googles \"preferred nomenclature\", is disappointed when the reference is from a movie I've seen multiple times.",
+        "user": "UEM1Y8CQH",
+        "ts": "1568901703.003500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568901091.001400",
+        "parent_user_id": "UEM1Y8CQH"
+    },
+    {
+        "client_msg_id": "3f73f8ca-c0ed-43c3-bbf5-7ff77c072554",
+        "type": "message",
+        "text": ":hankey::hankey::hankey:",
+        "user": "UEN71AM44",
+        "ts": "1568902197.003800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568901428.002200",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "b89f79de-2b4a-4f52-a705-3ff7019fc721",
+        "type": "message",
+        "text": "Forget it <@UEM08LNN5>, it's Chinatown.",
+        "user": "UELTX8WP3",
+        "ts": "1568902257.004000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568901091.001400",
+        "parent_user_id": "UEM1Y8CQH"
+    },
+    {
+        "client_msg_id": "73E43B09-0113-491E-8B48-578A2429A270",
+        "type": "message",
+        "text": "realtalk: I’m supes stressed about racing",
+        "user": "UEPMPAJUB",
+        "ts": "1568907501.004900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568901428.002200",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "9a09d195-c9e9-4e5a-b5c4-f1e203cb460b",
+        "type": "message",
+        "text": "We do this for ... fun..?",
+        "user": "UEM08LNN5",
+        "ts": "1568908890.005100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568901428.002200",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "2A43131E-E374-4BEE-8086-2534B496EC96",
+        "type": "message",
+        "text": "That’s a reach",
+        "user": "UEPMPAJUB",
+        "ts": "1568909256.005800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568901428.002200",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "e004430c-19e3-47bf-8fce-afeee9d72112",
+        "type": "message",
+        "text": "I saw.... I shall suffer",
+        "user": "UELTHSN2U",
+        "ts": "1568910924.006000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UELTHSN2U",
+            "ts": "1568910972.000000"
+        },
+        "thread_ts": "1568830873.005400",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "5A13FEE1-186F-43B4-94B4-71453C5CBA1A",
+        "type": "message",
+        "text": "Oh it's fun. Dumb fun, but fun",
+        "user": "UEM1Y8CQH",
+        "ts": "1568913723.007500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568901428.002200",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "6021bf0e-515d-4244-9bc9-01bb1f2121c9",
+        "type": "message",
+        "text": "<@UELTHSN2U> I'll buy you a non-skunked Reckless beer if you push her into the tape. I'm kidding. Don't do that. It's mean, and also, we'd have to be racing next to her to be able to do it anyway...",
+        "user": "UEMQ8740M",
+        "ts": "1568913855.007700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568830873.005400",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "3a4f1c55-9a9c-4180-976d-493eec6dcc21",
+        "type": "message",
+        "text": "I think elbows in the beginning is my only chance! haha",
+        "user": "UELTHSN2U",
+        "ts": "1568913958.007900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568830873.005400",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "7b424113-79bb-44cf-8e0a-652d065b4147",
+        "type": "message",
+        "text": "she's practically a teenager, put her in the tape!",
+        "user": "UEN71AM44",
+        "ts": "1568915000.008100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568830873.005400",
+        "parent_user_id": "UEMQ8740M",
+        "reactions": [
+            {
+                "name": "smiling_imp",
+                "users": [
+                    "UELTHSN2U",
+                    "UEMQ8740M"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

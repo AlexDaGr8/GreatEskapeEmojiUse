@@ -1,0 +1,390 @@
+[
+    {
+        "client_msg_id": "79CA3BC0-24B3-47C6-9B6A-3F73B8243C1D",
+        "type": "message",
+        "text": "Looks like <@UEM08LNN5>, <@UEN71AM44> and yours truly for BACX on Saturday. Anyone else want to come watch these guys run away with their seriesez?",
+        "user": "UENFLMV8R",
+        "ts": "1575559933.003600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575559933.003600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1575561250.006300",
+        "reply_users": [
+            "UEN71AM44",
+            "UEMG2LD43",
+            "UENFLMV8R"
+        ],
+        "replies": [
+            {
+                "user": "UEN71AM44",
+                "ts": "1575560090.003700"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1575561098.005300"
+            },
+            {
+                "user": "UENFLMV8R",
+                "ts": "1575561250.006300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e0c35d64-0410-4870-ad5e-1214b66bcba5",
+        "type": "message",
+        "text": "Hinton and Ortega are gonna braaap!",
+        "user": "UEN71AM44",
+        "ts": "1575560090.003700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=nM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hinton and Ortega are gonna braaap!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575559933.003600",
+        "parent_user_id": "UENFLMV8R",
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "UENFLMV8R",
+                    "UELTHSN2U",
+                    "UEM08LNN5"
+                ],
+                "count": 3
+            },
+            {
+                "name": "vuvu",
+                "users": [
+                    "UENFLMV8R",
+                    "UELTHSN2U",
+                    "UEM08LNN5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41f28fa3-3922-4c59-8d77-ead08af493a5",
+        "type": "message",
+        "text": "I'm registered for BACX and <@UEMQVREAZ>  !",
+        "user": "UELTHSN2U",
+        "ts": "1575560263.004800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FZM9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm registered for BACX and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UEMQVREAZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "vuvu",
+                "users": [
+                    "UENFLMV8R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9510a4d3-ef11-4934-b075-0cdc83eec1e1",
+        "type": "message",
+        "text": "take pictures!!!! from the race, fromt he podiums, and from jersey presentations. im too fatigued from thanksgiving driving to drive almost all the way to philly. #worstpresidentever",
+        "user": "UEMG2LD43",
+        "ts": "1575561098.005300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "orU6t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "take pictures!!!! from the race, fromt he podiums, and from jersey presentations. im too fatigued from thanksgiving driving to drive almost all the way to philly. #worstpresidentever"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575559933.003600",
+        "parent_user_id": "UENFLMV8R"
+    },
+    {
+        "client_msg_id": "13186047-D740-43AF-976F-CFC5F53799F6",
+        "type": "message",
+        "text": "You got it, boss.",
+        "user": "UENFLMV8R",
+        "ts": "1575561250.006300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575559933.003600",
+        "parent_user_id": "UENFLMV8R"
+    },
+    {
+        "type": "message",
+        "text": "I feel seen.",
+        "files": [
+            {
+                "id": "FR0QD4FEX",
+                "created": 1575602636,
+                "timestamp": 1575602636,
+                "name": "Screenshot_20191205-210530.png",
+                "title": "257248",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UEM08LNN5",
+                "editable": false,
+                "size": 91691,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TENHSKBAT-FR0QD4FEX\/screenshot_20191205-210530.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TENHSKBAT-FR0QD4FEX\/download\/screenshot_20191205-210530.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FR0QD4FEX-ab99b9be92\/screenshot_20191205-210530_64.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FR0QD4FEX-ab99b9be92\/screenshot_20191205-210530_80.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FR0QD4FEX-ab99b9be92\/screenshot_20191205-210530_360.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_360_w": 360,
+                "thumb_360_h": 217,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FR0QD4FEX-ab99b9be92\/screenshot_20191205-210530_480.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_480_w": 480,
+                "thumb_480_h": 290,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FR0QD4FEX-ab99b9be92\/screenshot_20191205-210530_160.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FR0QD4FEX-ab99b9be92\/screenshot_20191205-210530_720.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_720_w": 720,
+                "thumb_720_h": 435,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FR0QD4FEX-ab99b9be92\/screenshot_20191205-210530_800.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_800_w": 800,
+                "thumb_800_h": 483,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FR0QD4FEX-ab99b9be92\/screenshot_20191205-210530_960.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_960_w": 960,
+                "thumb_960_h": 580,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FR0QD4FEX-ab99b9be92\/screenshot_20191205-210530_1024.jpg?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 618,
+                "image_exif_rotation": 1,
+                "original_w": 1080,
+                "original_h": 652,
+                "thumb_tiny": "AwAcADCqBF5Gc\/PTSV\/u\/rShAVzzRsHvQA3K\/wB0\/nRlf7v60\/yx70eWPegCPijin7B70jKB0zmgADYUcUbx6U2igB+8elIX9BTaKAF3H2\/KgsT1\/lSUUAf\/2Q==",
+                "permalink": "https:\/\/greateskape.slack.com\/files\/UEM08LNN5\/FR0QD4FEX\/screenshot_20191205-210530.png",
+                "permalink_public": "https:\/\/slack-files.com\/TENHSKBAT-FR0QD4FEX-814dab76a0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dxdg1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel seen."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UEM08LNN5",
+        "display_as_bot": false,
+        "ts": "1575602636.008600",
+        "client_msg_id": "613d03b3-4f27-4031-8a1c-1f434af59f39",
+        "thread_ts": "1575602636.008600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1575641595.009900",
+        "reply_users": [
+            "UELTHSN2U",
+            "UF1HPL518"
+        ],
+        "replies": [
+            {
+                "user": "UELTHSN2U",
+                "ts": "1575604802.008900"
+            },
+            {
+                "user": "UF1HPL518",
+                "ts": "1575641595.009900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UELTHSN2U",
+                    "UEN71AM44",
+                    "UEMQ8740M",
+                    "UEMG2LD43"
+                ],
+                "count": 4
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "UELTX8WP3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "medical_symbol",
+                "users": [
+                    "UENKAEABU",
+                    "UEN71AM44"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0133658d-c4b0-400d-8e2d-12b638fbec3f",
+        "type": "message",
+        "text": "You best get your number selected!",
+        "user": "UELTHSN2U",
+        "ts": "1575604802.008900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ts76",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You best get your number selected!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575602636.008600",
+        "parent_user_id": "UEM08LNN5"
+    }
+]

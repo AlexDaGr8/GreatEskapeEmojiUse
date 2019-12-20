@@ -1,0 +1,226 @@
+[
+    {
+        "client_msg_id": "F8BC4B0E-91B1-42B1-A8C4-6B00982E9565",
+        "type": "message",
+        "text": "I miss the course at apple cross but not the drive! Just passed Winchester on my way to NC and jeeeeesus",
+        "user": "UEMG2LD43",
+        "ts": "1574861927.001100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1574861927.001100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1574865388.003600",
+        "reply_users": [
+            "UEN71AM44",
+            "UEMG2LD43"
+        ],
+        "replies": [
+            {
+                "user": "UEN71AM44",
+                "ts": "1574863289.001200"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1574865388.003600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "UELTHSN2U",
+                    "UEM08LNN5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c7b30fd-f36b-466c-a7d6-61d1bcd554fd",
+        "type": "message",
+        "text": "that was a great weekend of racing! we are really lucky to have so many races so close by.",
+        "user": "UEN71AM44",
+        "ts": "1574863289.001200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T1P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that was a great weekend of racing! we are really lucky to have so many races so close by."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574861927.001100",
+        "parent_user_id": "UEMG2LD43"
+    },
+    {
+        "client_msg_id": "1B80DF9E-C7C9-432B-ADC2-5665CE186C50",
+        "type": "message",
+        "text": "Nationals are sunday 12\/15, 12pm and 2pm (ish) races for women and men. Watch party? ",
+        "user": "UEM1Y8CQH",
+        "ts": "1574864856.002600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1574864856.002600",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1575946023.004400",
+        "reply_users": [
+            "UELTX8WP3",
+            "UEN71AM44",
+            "UEM1Y8CQH"
+        ],
+        "replies": [
+            {
+                "user": "UELTX8WP3",
+                "ts": "1574864892.003000"
+            },
+            {
+                "user": "UEN71AM44",
+                "ts": "1575035915.000100"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1575946008.003700"
+            },
+            {
+                "user": "UEM1Y8CQH",
+                "ts": "1575946023.004400"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1575986163.000933"
+    },
+    {
+        "client_msg_id": "63601e5a-4fda-4bc9-a379-f0e7b7eda085",
+        "type": "message",
+        "text": "Yes!!",
+        "user": "UELTX8WP3",
+        "ts": "1574864892.003000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jajp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574864856.002600",
+        "parent_user_id": "UEM1Y8CQH"
+    },
+    {
+        "client_msg_id": "54B041B5-742B-4A9B-8038-ACCB152EC455",
+        "type": "message",
+        "text": "U23 women and men are earlier Sunday morning",
+        "user": "UEM1Y8CQH",
+        "ts": "1574864901.003300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F9F3E7AD-BFCE-4515-9DB4-6863DC5A0C97",
+        "type": "message",
+        "text": "Gosh we really are!",
+        "user": "UEMG2LD43",
+        "ts": "1574865388.003600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1574861927.001100",
+        "parent_user_id": "UEMG2LD43"
+    }
+]

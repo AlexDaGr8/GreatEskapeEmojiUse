@@ -1,0 +1,318 @@
+[
+    {
+        "client_msg_id": "57691DBA-7E63-49C9-B9A8-4D1592E41AF7",
+        "type": "message",
+        "text": "Just got here, trying to find a spot to post up out tent",
+        "user": "UEPMPAJUB",
+        "ts": "1570880383.013900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9e3b7f54-b0a6-4102-af5f-f1760c72d322",
+        "type": "message",
+        "text": "Is our usual spot taken?",
+        "user": "UELTHSN2U",
+        "ts": "1570881788.014400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "94d11b4a-e1d8-4441-9bb3-9ab78f9472c0",
+        "type": "message",
+        "text": "We're across from the flyover",
+        "user": "UELTX8WP3",
+        "ts": "1570882957.014700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "flying_saucer",
+                "users": [
+                    "UELTHSN2U",
+                    "UFSTM599S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "285366e3-cf92-4a83-9ea1-991a93d0a6e1",
+        "type": "message",
+        "text": "How'd the morning races go??",
+        "user": "UEM08LNN5",
+        "ts": "1570891213.015400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "af01bc64-24bb-4c21-bb76-99de3c4c685b",
+        "type": "message",
+        "text": "Also, my train is like an hour late, so cutting it tight! See you guys like 1, hopefully",
+        "user": "UEM08LNN5",
+        "ts": "1570896293.018700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "UENFLMV8R",
+                    "UEPMPAJUB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b877e1c-c7cf-4128-9e19-55fc55aa0f0e",
+        "type": "message",
+        "text": "Kevin got 4th!!! Kelly got 2nd!!!",
+        "user": "UELTHSN2U",
+        "ts": "1570896324.019100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570896324.019100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1570896358.019800",
+        "reply_users": [
+            "UEM08LNN5"
+        ],
+        "replies": [
+            {
+                "user": "UEM08LNN5",
+                "ts": "1570896358.019800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "327d1bd1-e21e-47cd-b512-aa7241ace3b5",
+        "type": "message",
+        "text": "<@UEM08LNN5>  go go go!",
+        "user": "UELTHSN2U",
+        "ts": "1570896334.019500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "892a0959-7d25-486b-bc9d-2694dd898fc8",
+        "type": "message",
+        "text": "Yesssss",
+        "user": "UEM08LNN5",
+        "ts": "1570896358.019800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570896324.019100",
+        "parent_user_id": "UELTHSN2U"
+    },
+    {
+        "client_msg_id": "7CA5EB07-E20E-4505-B4F2-F9100A5F5002",
+        "type": "message",
+        "text": "I’m going to get the 5:30 train into Baltimore, hoping to meet up tonight!",
+        "user": "UEM1Y8CQH",
+        "ts": "1570909689.020900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570909689.020900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1570917863.021800",
+        "reply_users": [
+            "UELTX8WP3"
+        ],
+        "replies": [
+            {
+                "user": "UELTX8WP3",
+                "ts": "1570917863.021800"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1570917863.021800",
+        "reactions": [
+            {
+                "name": "train",
+                "users": [
+                    "UELTX8WP3",
+                    "UELTHSN2U",
+                    "UEM08LNN5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D359E0D1-086A-4D46-92C2-6160BA605752",
+        "type": "message",
+        "text": "Cool :sunglasses: ",
+        "user": "UENEJ7N85",
+        "ts": "1570910808.021200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bcd4ee67b883",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-19\/869411891171_bcd4ee67b88399c98985_72.png",
+            "first_name": "co-bro",
+            "real_name": "co-bro commando",
+            "display_name": "",
+            "team": "TENHSKBAT",
+            "name": "ilahi.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "47812179-8d9b-4b56-9665-da1272f7436f",
+        "type": "message",
+        "text": "I left 2 leashes around tree near tent. Leave it but can someone hide it so no one takes them please?!?!",
+        "user": "UELTHSN2U",
+        "ts": "1570914584.021500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "78dd28ba-24ec-4bc8-8d1e-bc2b89866ced",
+        "type": "message",
+        "text": "Dinner at rocket to Venus!",
+        "user": "UELTX8WP3",
+        "ts": "1570917863.021800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570909689.020900",
+        "parent_user_id": "UEM1Y8CQH"
+    }
+]

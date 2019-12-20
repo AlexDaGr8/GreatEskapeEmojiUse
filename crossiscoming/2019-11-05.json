@@ -1,0 +1,37 @@
+[
+    {
+        "client_msg_id": "12104F1E-F407-451F-8562-45F32362A996",
+        "type": "message",
+        "text": "<@UF1HPL518>, you trying to do <http:\/\/frostycross.com|frostycross.com> on Saturday?",
+        "user": "UENFLMV8R",
+        "ts": "1572990953.016600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572990953.016600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1574346512.000100",
+        "reply_users": [
+            "UF1HPL518"
+        ],
+        "replies": [
+            {
+                "user": "UF1HPL518",
+                "ts": "1574346512.000100"
+            }
+        ],
+        "subscribed": false
+    }
+]

@@ -1,0 +1,931 @@
+[
+    {
+        "client_msg_id": "2481fe1e-e98d-467e-9340-b3c19e4fc431",
+        "type": "message",
+        "text": "Jk Sleater-Kinney Friday night so no camping for me.",
+        "user": "UELTX8WP3",
+        "ts": "1571415498.000900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1911590E-7D8E-4784-BFC0-A0C4E6DFF1C9",
+        "type": "message",
+        "text": "What time is everyone showing up tomorrow morning?",
+        "user": "UENFLMV8R",
+        "ts": "1571417700.001400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571417700.001400",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1571425611.017600",
+        "reply_users": [
+            "UELTX8WP3",
+            "UEPMPAJUB",
+            "UEMQ8740M",
+            "UEM08LNN5"
+        ],
+        "replies": [
+            {
+                "user": "UELTX8WP3",
+                "ts": "1571417775.001800"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1571421034.007100"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1571424304.014700"
+            },
+            {
+                "user": "UEMQ8740M",
+                "ts": "1571424366.015000"
+            },
+            {
+                "user": "UEMQ8740M",
+                "ts": "1571424410.016300"
+            },
+            {
+                "user": "UEPMPAJUB",
+                "ts": "1571425155.017400"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1571425611.017600"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1571425649.000246"
+    },
+    {
+        "client_msg_id": "d86e8e62-30de-4f60-b810-f2499d0b69fc",
+        "type": "message",
+        "text": "8ish for me.",
+        "user": "UELTX8WP3",
+        "ts": "1571417775.001800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571417700.001400",
+        "parent_user_id": "UENFLMV8R"
+    },
+    {
+        "client_msg_id": "9f0cd7ad-b802-4d66-ac33-2617c3b30982",
+        "type": "message",
+        "text": "Is there packet pickup tonight like last year??",
+        "user": "UELTX8WP3",
+        "ts": "1571417792.002500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "181510B0-449C-47EC-8925-7216DF5ACE61",
+        "type": "message",
+        "text": "There’s a thing at the trek store tonight",
+        "user": "UENFLMV8R",
+        "ts": "1571417819.002900",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1BA1E6B0-B265-45BA-8F17-3C743171C743",
+        "type": "message",
+        "text": "Clarendon ",
+        "user": "UENFLMV8R",
+        "ts": "1571417822.003100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "BBA7D31A-69AB-4C36-900C-01884C64E5E5",
+        "type": "message",
+        "text": "<@UENFLMV8R> what time? Don't think I can make it but mayve",
+        "user": "UEM1Y8CQH",
+        "ts": "1571418819.003800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "8af037cbad72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-08\/571257992611_8af037cbad726593f58d_72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Beszhak",
+            "display_name": "Not New, Still Fresh Alex",
+            "team": "TENHSKBAT",
+            "name": "alex.beszhak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FPJTBU44D",
+                "created": 1571419033,
+                "timestamp": 1571419033,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UENFLMV8R",
+                "editable": false,
+                "size": 109727,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TENHSKBAT-FPJTBU44D\/image_from_ios.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TENHSKBAT-FPJTBU44D\/download\/image_from_ios.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FPJTBU44D-dfee812fa8\/image_from_ios_64.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FPJTBU44D-dfee812fa8\/image_from_ios_80.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FPJTBU44D-dfee812fa8\/image_from_ios_360.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FPJTBU44D-dfee812fa8\/image_from_ios_480.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FPJTBU44D-dfee812fa8\/image_from_ios_160.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FPJTBU44D-dfee812fa8\/image_from_ios_720.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_720_w": 406,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FPJTBU44D-dfee812fa8\/image_from_ios_800.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_800_w": 451,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FPJTBU44D-dfee812fa8\/image_from_ios_960.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_960_w": 541,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TENHSKBAT-FPJTBU44D-dfee812fa8\/image_from_ios_1024.png?t=xoxe-498604657367-880922927636-880922927668-e983684154362e6359c5881afa33e980",
+                "thumb_1024_w": 577,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 640,
+                "original_h": 1136,
+                "thumb_tiny": "AwAwABt\/2psfcX8jTDeTE\/6pfzq19njBxluP9oUn2eM8Et\/30KAK\/wBtmxzEv50fbZhwIVx9an+zRerf99Cn\/Y4vVvzoAlOcnr+tJz7\/AK0p+8f8\/wBaT8P8\/nQAck9T+ZqSmBc\/\/q\/+vTx0oAYSM9V\/KkyPVfypxJz1b8qVT9fxFACL7Y\/AU6iigD\/\/2Q==",
+                "permalink": "https:\/\/greateskape.slack.com\/files\/UENFLMV8R\/FPJTBU44D\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/TENHSKBAT-FPJTBU44D-b0866e6172",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UENFLMV8R",
+        "display_as_bot": false,
+        "ts": "1571419036.003900",
+        "client_msg_id": "F20192DB-7AB5-4819-9753-590C5C1436CF",
+        "thread_ts": "1571419036.003900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1571421387.007400",
+        "reply_users": [
+            "UELTX8WP3"
+        ],
+        "replies": [
+            {
+                "user": "UELTX8WP3",
+                "ts": "1571421387.007400"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1571421387.007400",
+        "reactions": [
+            {
+                "name": "exploding_head",
+                "users": [
+                    "UELTX8WP3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3544EDD1-ABD2-40DE-AF39-2AA8C8530583",
+        "type": "message",
+        "text": "Unfortunately, I won’t make this. Pretty sure <@UEMQ8740M> is going",
+        "user": "UENFLMV8R",
+        "ts": "1571419109.005000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E003D025-C96E-4417-9C9F-BE49D1C28ED4",
+        "type": "message",
+        "text": "I’m probably going but only because I’m picking up team hats for us in Arlington. ",
+        "user": "UEMQ8740M",
+        "ts": "1571419652.005700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "contes",
+                "users": [
+                    "UENFLMV8R",
+                    "UEMG2LD43"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "817669CF-56EC-413C-829C-CB1430F9EDEC",
+        "type": "message",
+        "text": "Probably 7-730",
+        "user": "UEPMPAJUB",
+        "ts": "1571421034.007100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571417700.001400",
+        "parent_user_id": "UENFLMV8R"
+    },
+    {
+        "client_msg_id": "82539118-a2f1-42d0-8d52-bb8c2f9366c7",
+        "type": "message",
+        "text": "rtfm <@UELTX8WP3>",
+        "user": "UELTX8WP3",
+        "ts": "1571421387.007400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571419036.003900",
+        "parent_user_id": "UENFLMV8R"
+    },
+    {
+        "client_msg_id": "8AE41B04-A7E6-4750-AC77-20BD74514D3D",
+        "type": "message",
+        "text": "Come to Arlington for the hats, stay for the podcast",
+        "user": "UENFLMV8R",
+        "ts": "1571422150.011000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F8A775DF-0819-4DCB-81EE-3C9BAA8FD7EF",
+        "type": "message",
+        "text": "Ehhh I’m good. I don’t need the pod ",
+        "user": "UEMQ8740M",
+        "ts": "1571422369.012700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CF3CB046-68AA-4954-9DB4-5C8FB7DB28A0",
+        "type": "message",
+        "text": "<@UEMQ8740M> did you get the tent space? So I can drive up with it real easy-like?",
+        "user": "UEPMPAJUB",
+        "ts": "1571424304.014700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571417700.001400",
+        "parent_user_id": "UENFLMV8R"
+    },
+    {
+        "client_msg_id": "4055FA96-6823-46DB-B01D-649BE46CD7DA",
+        "type": "message",
+        "text": "Yep. Sure did. ",
+        "user": "UEMQ8740M",
+        "ts": "1571424366.015000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571417700.001400",
+        "parent_user_id": "UENFLMV8R"
+    },
+    {
+        "client_msg_id": "B618A157-7ADD-411D-8DEC-27F0CAAF4919",
+        "type": "message",
+        "text": "Actually, if <@UELTHSN2U> hasn’t dropped the beer off at Dylan’s yet, can that go to your house so there’s less lugging around?",
+        "user": "UEMQ8740M",
+        "ts": "1571424410.016300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571417700.001400",
+        "parent_user_id": "UENFLMV8R"
+    },
+    {
+        "client_msg_id": "499466F3-C22E-4D14-B77F-A3DFB23223AE",
+        "type": "message",
+        "text": "I think <@UEM08LNN5> has it but he’s welcome to load what’s left in my car tonight ",
+        "user": "UEPMPAJUB",
+        "ts": "1571425155.017400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571417700.001400",
+        "parent_user_id": "UENFLMV8R"
+    },
+    {
+        "client_msg_id": "70bf5b84-e896-4238-a438-77f7c0549902",
+        "type": "message",
+        "text": "What's left will probably fit in your glove box",
+        "user": "UEM08LNN5",
+        "ts": "1571425611.017600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571417700.001400",
+        "parent_user_id": "UENFLMV8R",
+        "reactions": [
+            {
+                "name": "upside_down_face",
+                "users": [
+                    "UEPMPAJUB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "368B4C59-8F73-42BF-81A9-756B4C084D29",
+        "type": "message",
+        "text": "Cynthia aka watt wagon aka gravista organizer and a going to come through and say hi and meet the team at some point this weekend, or we can do the same. Told her we’re stoked to do her race!",
+        "user": "UEMG2LD43",
+        "ts": "1571430166.019600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F12AC519-8034-40EE-87D9-B073925ACBE0",
+        "type": "message",
+        "text": "She’s great!",
+        "user": "UEMQ8740M",
+        "ts": "1571430230.019800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "68CE6C44-26CB-40C0-B821-C9F62DAF0142",
+        "type": "message",
+        "text": "She said you’re great!",
+        "user": "UEMG2LD43",
+        "ts": "1571430314.020100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DF194D6E-D4F3-4CD2-B7A9-ECA97059AA60",
+        "type": "message",
+        "text": "Greatness abounds",
+        "user": "UEMQ8740M",
+        "ts": "1571431610.020500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "30b4fcdd-b7cc-4000-bdf8-7f438da213e2",
+        "type": "message",
+        "text": "it's right there in the team name!",
+        "user": "UEPMPAJUB",
+        "ts": "1571432219.020800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "313dfd4c-942f-4d53-96a5-ee4b1d93f91e",
+        "type": "message",
+        "text": "quick question: who would like to drive me to PA for this race next weekend so we can A) roll through PA state champs and B) visit my friend in hershey and C) visit the troegs brewery? <https:\/\/www.bikereg.com\/troegenator-cross>",
+        "user": "UEPMPAJUB",
+        "ts": "1571432295.022100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BikeReg.com",
+                "title": "Troegenator Cross - PA State Championships Online Registration",
+                "title_link": "https:\/\/www.bikereg.com\/troegenator-cross",
+                "text": "BikeReg - online cycling event registration",
+                "fallback": "BikeReg.com: Troegenator Cross - PA State Championships Online Registration",
+                "thumb_url": "http:\/\/www.BikeReg.com\/Images\/logos\/BikeReg\/br100.png",
+                "from_url": "https:\/\/www.bikereg.com\/troegenator-cross",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.bikereg.com\/faviconbikereg.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.bikereg.com\/troegenator-cross"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e48a1a5-7c00-4569-957b-ccb585f027da",
+        "type": "message",
+        "text": "The lengths people are willing to go to in order to miss biketoberfest..",
+        "user": "UEM08LNN5",
+        "ts": "1571432350.023000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571432350.023000",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1571435697.000500",
+        "reply_users": [
+            "UENFLMV8R",
+            "UEM08LNN5"
+        ],
+        "replies": [
+            {
+                "user": "UENFLMV8R",
+                "ts": "1571433986.026600"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1571435630.000300"
+            },
+            {
+                "user": "UEM08LNN5",
+                "ts": "1571435697.000500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "woman-shrugging",
+                "users": [
+                    "UEPMPAJUB",
+                    "UEMG2LD43",
+                    "UELTX8WP3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4934d78c-eda3-47b0-a4eb-f08ae0bbd81c",
+        "type": "message",
+        "text": "mostly i want to visit my buddy because i've promised him i would for 3 years straight but then its bikes every damn weekend",
+        "user": "UEPMPAJUB",
+        "ts": "1571432463.024000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "7f73d4a933a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-10\/499844176594_7f73d4a933a68e6a6da7_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Sundeen",
+            "display_name": "kevin",
+            "team": "TENHSKBAT",
+            "name": "kesundeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "24f10afe-ed4f-437f-ab4b-1514381d772a",
+        "type": "message",
+        "text": "I 100 percent endorse this plan. I've wanted to check out Lititz for a while.",
+        "user": "UELTX8WP3",
+        "ts": "1571433696.025600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d99628e29d0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877353314791_d99628e29d0d2547dbb9_72.jpg",
+            "first_name": "Addison",
+            "real_name": "Addison",
+            "display_name": "a    d    d    i    s    o    n",
+            "team": "TENHSKBAT",
+            "name": "addison.larrow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571433696.025600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1571444641.000500",
+        "reply_users": [
+            "UEPNUSZCN"
+        ],
+        "replies": [
+            {
+                "user": "UEPNUSZCN",
+                "ts": "1571444641.000500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1571444641.000500"
+    },
+    {
+        "client_msg_id": "581E14A6-396F-4EA4-A0FA-D3CEE62E6A24",
+        "type": "message",
+        "text": "I would never miss one of your baby masters performances.",
+        "user": "UENFLMV8R",
+        "ts": "1571433986.026600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571432350.023000",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "6ceb11f9-aa83-454b-8024-e38d9b7640f8",
+        "type": "message",
+        "text": "Knew I could count on you :blue_heart::purple_heart:",
+        "user": "UEM08LNN5",
+        "ts": "1571435630.000300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571432350.023000",
+        "parent_user_id": "UEM08LNN5"
+    },
+    {
+        "client_msg_id": "6dd82cec-3f77-46af-9ce7-72cd8e2c9850",
+        "type": "message",
+        "text": "<@UEN71AM44> will be defending his SS jersey too!",
+        "user": "UEM08LNN5",
+        "ts": "1571435697.000500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "919191b0cd69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/875411949232_919191b0cd69627baac9_72.jpg",
+            "first_name": "dylan",
+            "real_name": "dylan",
+            "display_name": "Rising Clyde",
+            "team": "TENHSKBAT",
+            "name": "dylan.stagner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571432350.023000",
+        "parent_user_id": "UEM08LNN5",
+        "reactions": [
+            {
+                "name": "vuvu",
+                "users": [
+                    "UENFLMV8R",
+                    "UEPMPAJUB",
+                    "UENEJ7N85"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FF0CCEE0-E390-4714-B74B-3A5A3F46D1D7",
+        "type": "message",
+        "text": "Real talk I gotta find my Garmin :grimacing:",
+        "user": "UEMQ8740M",
+        "ts": "1571442385.000400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "world_map",
+                "users": [
+                    "UELTX8WP3",
+                    "UEMG2LD43"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4addebf9-a11c-40a4-bf1c-919d39980a12",
+        "type": "message",
+        "text": "Lilitz is a fun town. There's a cool cafe near there called the Speckled Hen. I'm travelling that weekend or I'd be interested",
+        "user": "UEPNUSZCN",
+        "ts": "1571444641.000500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "1336e9cd9364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/498225299572_1336e9cd93642dcfeefc_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Jones",
+            "display_name": "",
+            "team": "TENHSKBAT",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571433696.025600",
+        "parent_user_id": "UELTX8WP3"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "CDA0E550-753E-4FEF-BBB0-6BFD287023C7",
+        "type": "message",
+        "text": "Meow meow meow!",
+        "user": "UEMQ8740M",
+        "ts": "1574256078.000300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4375C63F-EFDC-435F-96DC-B0EFC1EFBD77",
+        "type": "message",
+        "text": "<https:\/\/media3.giphy.com\/media\/PGTdBIN2HA9Gw\/source.gif>",
+        "user": "UEMG2LD43",
+        "ts": "1574256164.000500",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "357x200px image",
+                "image_url": "https:\/\/media3.giphy.com\/media\/PGTdBIN2HA9Gw\/source.gif",
+                "image_width": 357,
+                "image_height": 200,
+                "image_bytes": 1582198,
+                "is_animated": true,
+                "from_url": "https:\/\/media3.giphy.com\/media\/PGTdBIN2HA9Gw\/source.gif",
+                "id": 1,
+                "original_url": "https:\/\/media3.giphy.com\/media\/PGTdBIN2HA9Gw\/source.gif"
+            }
+        ]
+    }
+]

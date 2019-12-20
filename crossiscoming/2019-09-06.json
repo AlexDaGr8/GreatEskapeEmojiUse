@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "71483D11-4EF8-49D0-B047-9D0E53B0E541",
+        "type": "message",
+        "text": "Kind of related, but could I borrow those barriers for the bandit stage race the wknd of the 15th? <@UEMQ8740M> and\/or <@UEM08LNN5> ",
+        "user": "UENEJ7N85",
+        "ts": "1567795752.038300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bcd4ee67b883",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-19\/869411891171_bcd4ee67b88399c98985_72.png",
+            "first_name": "co-bro",
+            "real_name": "co-bro commando",
+            "display_name": "",
+            "team": "TENHSKBAT",
+            "name": "ilahi.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "BC5ACE34-0743-402D-BE02-97D99C63582E",
+        "type": "message",
+        "text": "So far, venues are P St beach, Malcolm X Park, poss Ft Slocum ",
+        "user": "UENEJ7N85",
+        "ts": "1567795798.039400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bcd4ee67b883",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-19\/869411891171_bcd4ee67b88399c98985_72.png",
+            "first_name": "co-bro",
+            "real_name": "co-bro commando",
+            "display_name": "",
+            "team": "TENHSKBAT",
+            "name": "ilahi.c",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567690759.019600",
+        "parent_user_id": "UEMQVREAZ"
+    },
+    {
+        "client_msg_id": "cd817100-e9d5-4247-b5a9-fff348157721",
+        "type": "message",
+        "text": "oh awesome!!!!",
+        "user": "UELTHSN2U",
+        "ts": "1567808578.039600",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567695802.030300",
+        "parent_user_id": "UEN71AM44"
+    }
+]

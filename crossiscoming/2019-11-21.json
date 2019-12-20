@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "524f4d1b-b32e-4207-b015-ea074fe5e2eb",
+        "type": "message",
+        "text": "awww i just saw this",
+        "user": "UF1HPL518",
+        "ts": "1574346512.000100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5f2f460ec09c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-15\/874365254000_5f2f460ec09c420f9345_72.jpg",
+            "first_name": "Richo",
+            "real_name": "Richo Mundo",
+            "display_name": "Richo team Smol2Swol",
+            "team": "TENHSKBAT",
+            "name": "richmondknight",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DQZR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "awww i just saw this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1572990953.016600",
+        "parent_user_id": "UENFLMV8R"
+    }
+]

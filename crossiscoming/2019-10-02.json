@@ -1,0 +1,459 @@
+[
+    {
+        "client_msg_id": "8bdd13b8-d04e-4d66-8fcd-512f961c230d",
+        "type": "message",
+        "text": "<@UFSTM599S> - I've got a problem on Sunday and I need your help.",
+        "user": "UEMQ8740M",
+        "ts": "1570029868.033300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570029868.033300",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1570040221.040200",
+        "reply_users": [
+            "UFSTM599S",
+            "UEMQ8740M",
+            "UEMG2LD43"
+        ],
+        "replies": [
+            {
+                "user": "UFSTM599S",
+                "ts": "1570029923.034000"
+            },
+            {
+                "user": "UEMQ8740M",
+                "ts": "1570030130.035000"
+            },
+            {
+                "user": "UEMG2LD43",
+                "ts": "1570030409.035200"
+            },
+            {
+                "user": "UEMQ8740M",
+                "ts": "1570030787.035400"
+            },
+            {
+                "user": "UFSTM599S",
+                "ts": "1570037671.036200"
+            },
+            {
+                "user": "UFSTM599S",
+                "ts": "1570037789.039400"
+            },
+            {
+                "user": "UFSTM599S",
+                "ts": "1570037844.040000"
+            },
+            {
+                "user": "UEMQ8740M",
+                "ts": "1570040221.040200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "06EA0669-D7D0-45E1-8EF5-CD360096A664",
+        "type": "message",
+        "text": "What’s up?",
+        "user": "UFSTM599S",
+        "ts": "1570029923.034000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d951126bb4e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-30\/537942644931_d951126bb4e8037fdd15_72.png",
+            "first_name": "Kat",
+            "real_name": "Kat O’Konski",
+            "display_name": "Kat",
+            "team": "TENHSKBAT",
+            "name": "katherine.okonski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570029868.033300",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "26e063c8-946a-4221-b454-239c77c487a6",
+        "type": "message",
+        "text": "Go to this link real quick and do the necessary: <https:\/\/tinyurl.com\/y5dmytn8>",
+        "user": "UEMQ8740M",
+        "ts": "1570030099.034800",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BikeReg.com",
+                "title": "Hyattsville CX -- Event #2  of the 2019 BikeReg Cyclocross SuperSeries Online Registration",
+                "title_link": "https:\/\/tinyurl.com\/y5dmytn8",
+                "text": "BikeReg - online cycling event registration",
+                "fallback": "BikeReg.com: Hyattsville CX -- Event #2  of the 2019 BikeReg Cyclocross SuperSeries Online Registration",
+                "thumb_url": "http:\/\/www.BikeReg.com\/Images\/logos\/BikeReg\/br100.png",
+                "from_url": "https:\/\/tinyurl.com\/y5dmytn8",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.bikereg.com\/faviconbikereg.ico",
+                "id": 1,
+                "original_url": "https:\/\/tinyurl.com\/y5dmytn8"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42662882-d206-498f-8d6b-b924924dd326",
+        "type": "message",
+        "text": "YOU'RE NOT REGISTERED FOR HYATTSVILLE!",
+        "user": "UEMQ8740M",
+        "ts": "1570030130.035000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570029868.033300",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "531e68f8-c8f4-40df-8b43-c8d867e8036f",
+        "type": "message",
+        "text": "i think KO is at a wedding or something",
+        "user": "UEMG2LD43",
+        "ts": "1570030409.035200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570029868.033300",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "b496b4c1-b4c8-4231-b46d-5a3619dcc8df",
+        "type": "message",
+        "text": "oh nooooo - that's so sad. :disappointed:",
+        "user": "UEMQ8740M",
+        "ts": "1570030787.035400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570029868.033300",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Hey! Sorry I answered this and then got sidelined.",
+        "user": "UFSTM599S",
+        "ts": "1570037671.036200",
+        "thread_ts": "1570029868.033300",
+        "root": {
+            "client_msg_id": "8bdd13b8-d04e-4d66-8fcd-512f961c230d",
+            "type": "message",
+            "text": "<@UFSTM599S> - I've got a problem on Sunday and I need your help.",
+            "user": "UEMQ8740M",
+            "ts": "1570029868.033300",
+            "team": "TENHSKBAT",
+            "thread_ts": "1570029868.033300",
+            "reply_count": 8,
+            "reply_users_count": 3,
+            "latest_reply": "1570040221.040200",
+            "reply_users": [
+                "UFSTM599S",
+                "UEMQ8740M",
+                "UEMG2LD43"
+            ],
+            "replies": [
+                {
+                    "user": "UFSTM599S",
+                    "ts": "1570029923.034000"
+                },
+                {
+                    "user": "UEMQ8740M",
+                    "ts": "1570030130.035000"
+                },
+                {
+                    "user": "UEMG2LD43",
+                    "ts": "1570030409.035200"
+                },
+                {
+                    "user": "UEMQ8740M",
+                    "ts": "1570030787.035400"
+                },
+                {
+                    "user": "UFSTM599S",
+                    "ts": "1570037671.036200"
+                },
+                {
+                    "user": "UFSTM599S",
+                    "ts": "1570037789.039400"
+                },
+                {
+                    "user": "UFSTM599S",
+                    "ts": "1570037844.040000"
+                },
+                {
+                    "user": "UEMQ8740M",
+                    "ts": "1570040221.040200"
+                }
+            ],
+            "subscribed": false
+        },
+        "client_msg_id": "24806F0A-B4A5-4B64-8448-0EFA4523C0D1"
+    },
+    {
+        "client_msg_id": "7669F633-101F-4F0E-A00B-65961869116A",
+        "type": "message",
+        "text": "But <@UEMG2LD43> is correct, I am sadly at a bachelorette in Charlestown. I would have liked to do Hyattsville since it’s apparently easier and clearly I need more practice at this cx thing....instead I guess I will just give it another go at charm city the following weekend?",
+        "user": "UFSTM599S",
+        "ts": "1570037789.039400",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d951126bb4e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-30\/537942644931_d951126bb4e8037fdd15_72.png",
+            "first_name": "Kat",
+            "real_name": "Kat O’Konski",
+            "display_name": "Kat",
+            "team": "TENHSKBAT",
+            "name": "katherine.okonski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570029868.033300",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "6E7DDDBC-94F3-42F5-9CD5-CCB8F261C649",
+        "type": "message",
+        "text": "And by Charlestown I mean Charleston SC",
+        "user": "UFSTM599S",
+        "ts": "1570037844.040000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "d951126bb4e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-30\/537942644931_d951126bb4e8037fdd15_72.png",
+            "first_name": "Kat",
+            "real_name": "Kat O’Konski",
+            "display_name": "Kat",
+            "team": "TENHSKBAT",
+            "name": "katherine.okonski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570029868.033300",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "3e513622-39c4-470c-8667-127a1e4b9986",
+        "type": "message",
+        "text": "dang! Well have fun in Charleston! We'll miss you for sure, but next weekend will be great.",
+        "user": "UEMQ8740M",
+        "ts": "1570040221.040200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "3e9cbdbf762a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/864145324306_3e9cbdbf762a3c18d1fe_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly Roberson",
+            "display_name": "Kelly",
+            "team": "TENHSKBAT",
+            "name": "kelly.c.roberson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570029868.033300",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "9C898AB6-F7BA-4853-9E2A-DCBAE81A52A8",
+        "type": "message",
+        "text": "For AACX, planning to arrive around 9am with the tent and Dylan. I emailed someone about a team tent spot. Appears as though there could be some all day doubling up action. I may have crushed all the leftover naturdays, however. Still come though.",
+        "user": "UENFLMV8R",
+        "ts": "1570064617.044300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "e5fff266908f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866589588291_e5fff266908f513493f2_72.png",
+            "first_name": "Brian",
+            "real_name": "Brian Crowe",
+            "display_name": "Aesthetic Director",
+            "team": "TENHSKBAT",
+            "name": "crowebc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UENFLMV8R",
+            "ts": "1570064694.000000"
+        }
+    },
+    {
+        "client_msg_id": "18f5e507-99aa-4a38-b202-72d9e5152b18",
+        "type": "message",
+        "text": "Racing at 10am! Bringing Reckless Ales!",
+        "user": "UELTHSN2U",
+        "ts": "1570065419.045200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "a3954a935b24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/499091053990_a3954a935b24d61dc8c4_72.jpg",
+            "first_name": "Edrie",
+            "real_name": "Edrie Ortega",
+            "display_name": "ShrEdrie",
+            "team": "TENHSKBAT",
+            "name": "edrie.ortega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "reckless",
+                "users": [
+                    "UEM08LNN5",
+                    "UENFLMV8R",
+                    "UEN71AM44"
+                ],
+                "count": 3
+            },
+            {
+                "name": "electricslugguy",
+                "users": [
+                    "UENFLMV8R",
+                    "UEN71AM44"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1BE068E0-4913-46A1-88D7-550A7D70F74E",
+        "type": "message",
+        "text": "I’ll come out at 9, doing the 4\/5 might do the SS",
+        "user": "UEMG2LD43",
+        "ts": "1570067231.046200",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "bffc0f5b7aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/877101150983_bffc0f5b7aadbb246cf9_72.gif",
+            "first_name": "andy",
+            "real_name": "andy",
+            "display_name": "President Skroob",
+            "team": "TENHSKBAT",
+            "name": "andyrkarr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "kevinbecreepin",
+                "users": [
+                    "UENFLMV8R",
+                    "UELTHSN2U",
+                    "UELTX8WP3",
+                    "UEN71AM44"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d09c1b24-372c-4dd6-8ff2-620a5a06a69d",
+        "type": "message",
+        "text": "I have space for 1 nerd and 1 bike to AACX and Charm City both days",
+        "user": "UF1HPL518",
+        "ts": "1570070410.047100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5f2f460ec09c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-15\/874365254000_5f2f460ec09c420f9345_72.jpg",
+            "first_name": "Richo",
+            "real_name": "Richo Mundo",
+            "display_name": "Richo team Smol2Swol",
+            "team": "TENHSKBAT",
+            "name": "richmondknight",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UF1HPL518",
+            "ts": "1570070421.000000"
+        },
+        "reactions": [
+            {
+                "name": "nerd_face",
+                "users": [
+                    "UELTX8WP3",
+                    "UEN71AM44"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

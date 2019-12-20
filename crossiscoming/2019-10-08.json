@@ -1,0 +1,25 @@
+[
+    {
+        "client_msg_id": "5a8a3284-67dd-4b19-b59f-8e5b3c2ec8b5",
+        "type": "message",
+        "text": "Was I supposed to see this thread <@UEMG2LD43>",
+        "user": "UF1HPL518",
+        "ts": "1570579513.077000",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5f2f460ec09c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-15\/874365254000_5f2f460ec09c420f9345_72.jpg",
+            "first_name": "Richo",
+            "real_name": "Richo Mundo",
+            "display_name": "Richo team Smol2Swol",
+            "team": "TENHSKBAT",
+            "name": "richmondknight",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570454917.062600",
+        "parent_user_id": "UEMG2LD43"
+    }
+]

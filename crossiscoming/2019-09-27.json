@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "d8ce70b7-b942-4baa-841f-081004f056df",
+        "type": "message",
+        "text": "cool! i really hope i can get my cx flow back.",
+        "user": "UEN71AM44",
+        "ts": "1569588117.000100",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "c791f913f32a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-07\/497674513120_c791f913f32a481170b8_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy",
+            "display_name": "JerBear",
+            "team": "TENHSKBAT",
+            "name": "jeremylikesbooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569547381.024900",
+        "parent_user_id": "UEN71AM44",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UENEJ7N85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a911162-e604-4009-bbab-cf6f2d648b5c",
+        "type": "message",
+        "text": "5 races is all you need for MABRA",
+        "user": "UF1HPL518",
+        "ts": "1569613509.000300",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5f2f460ec09c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-15\/874365254000_5f2f460ec09c420f9345_72.jpg",
+            "first_name": "Richo",
+            "real_name": "Richo Mundo",
+            "display_name": "Richo team Smol2Swol",
+            "team": "TENHSKBAT",
+            "name": "richmondknight",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569534780.021200",
+        "parent_user_id": "UEMQ8740M"
+    },
+    {
+        "client_msg_id": "38378A20-FCB4-446C-B30E-6C79146DEA34",
+        "type": "message",
+        "text": "You and me both!! ",
+        "user": "UEMQVREAZ",
+        "ts": "1569613684.000700",
+        "team": "TENHSKBAT",
+        "user_team": "TENHSKBAT",
+        "source_team": "TENHSKBAT",
+        "user_profile": {
+            "avatar_hash": "5ffa4a340bc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/862742865474_5ffa4a340bc1e85d849c_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Hinton",
+            "display_name": "Alex Clone 42",
+            "team": "TENHSKBAT",
+            "name": "hintonalexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569547381.024900",
+        "parent_user_id": "UEN71AM44",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UENEJ7N85"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

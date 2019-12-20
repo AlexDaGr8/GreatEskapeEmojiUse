@@ -1,0 +1,20 @@
+{
+  "name": "greateskapemessages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "stitch": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDaGr8/GreatEskapeEmojiUse.git"
+  },
+  "author": "Alexander Hinton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexDaGr8/GreatEskapeEmojiUse/issues"
+  },
+  "homepage": "https://github.com/AlexDaGr8/GreatEskapeEmojiUse#readme"
+}
