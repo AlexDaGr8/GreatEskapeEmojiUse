@@ -7,13 +7,26 @@
     <title>Document</title>
 </head>
 <body>
+    <!-- <input type="file" onchange="formatData.onChange">
+    <script src="formatData.js"></script> -->
     <script>
-        getStitchData();
-        async function getStitchData() {
-            const response = await fetch('stitched.json');
-            const myJson = await response.json();
-            console.log(myJson);  
-        }  
+        fetch('stitched.json')
+            .then(response => response.json())
+            .then(analize)
+
+        function analize(data) {
+            this.reactions = data.filter(d => d.reactions).map(d => d.reactions).flat();
+            this.emojis = [...new Set(this.reactions.map(d => d.name))]
+            this.emojiArray = [];
+            this.emojis.forEach(emoji => {
+                let numberUsed = this.reactions
+                    .filter(d => d.name === emoji)
+                    .map(d => d.users.length)
+                    .reduce((acc, cur) => acc += cur, 0)
+                this.emojiArray.push({ name: emoji, value: numberUsed});
+            });
+            console.log(this.emojiArray.sort((a,b) => b.value - a.value))
+        }
     </script>
 </body>
 </html>
